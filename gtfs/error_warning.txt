@@ -1,0 +1,1 @@
+Warning:  Trip pattern route:   P21 Number:         131 has at least one missing itinerary. The generated files might be invalid.

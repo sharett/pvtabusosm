@@ -1,0 +1,39 @@
+route_id,route_short_name,route_long_name,route_desc,route_type
+30,30,"North Amherst / Old Belchertown Rd",,3
+31,31,"Sunderland / South Amherst",,3
+32,32,"Atkins Corner / Puffers Pond",,3
+37,37,"Amity Shuttle / UMass",,3
+45,45,"Belchertown Center / UMass",,3
+46,46,"South Deerfield / UMass",,3
+B12,B12,"Stonybrook Express",,3
+B13,B13,"Maple Street / East Longmeadow",,3
+B15,B15,"Oak Grove",,3
+B17,B17,"Eastfield Mall via Worthington-Wilbraham Rd-Parker",,3
+B23,B23,"Holyoke/Westfield via Holyoke Community College",,3
+B4,B4,"Plainfield Street",,3
+B43,B43,"Northampton/Hadley/Amherst",,3
+B48,B48,"Northampton/ Veteran's Park/ HolyokeMall",,3
+B6,B6,"Ludlow via Bay",,3
+B7,B7,"State St - Boston Rd/Walmart - Eastfield Mall",,3
+BtrS,BtrS,"Belchertown Shuttle",,3
+G1,G1,"Chicopee Center - Big Y / Sumner & Allen",,3
+G19,G19,"Springfield Plaza to Fairview via Chic Big Y",,3
+G2,G2,"Carew-East Springfield / Belmont-Dwight Rd.",,3
+G3,G3,"Spfld. Plaza via Liberty/King-Westford-Walnut/Spfl",,3
+G5,G5,"Dickinson-Jewish Home/Longmeadow/ SBT",,3
+G8,G8,"Orange - Plumtree /  Springfield Bus Treminal",,3
+NE,NE,"Nashawannuck Express",,3
+P11,P11,"Holyoke Community College Express",,3
+P20,P20,"Holyoke/ Springfield via Holyoke Mall, Riverdale",,3
+P21,P21,"Holyoke/Springfield via Chicopee",,3
+PV,PV,"Palmer Shuttle",,3
+R10,R10,"Westfield State University / West Springfield",,3
+R14,R14,"Feeding Hills/Springfield",,3
+R22,R22,"Hoyoke/Big Y via Aldenville - Holyoke Mall",,3
+R24,R24,"Essex/Appleton/Holyoke Hospital - Holyoke Mall",,3
+R25,R25,"Holyoke / Granby / S. Hadley",,3
+R27,R27,"Wilbraham/Eastfield Mall/Sixteen Acres",,3
+R41,R41,"Northampton/Easthampton/HCC",,3
+R42,R42,"Northampton/Williamsburg",,3
+R44,R44,"Florence Heights via King St. & Bridge Rd.",,3
+WS,WS,"Ware Shuttle",,3
