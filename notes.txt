@@ -1,3 +1,27 @@
+Files in this directory
+=======================
+
+bookmarks.html useful links
+
+csv.coffee helper file for main.coffee
+
+gtfs csv files with pvta/etc data
+
+main.coffee script to extract list of routes and stops
+
+nodebusstops.txt list of PVTA bus stops in OSM. (osm ids, and PVTA stop_id numbers)
+
+notes.txt hi
+
+routes_stops.txt list of routes, and their stops, extracted from gtfs/ by main.coffee
+
+stop_refs_to_json.sh converts nodebusstops.txt to json
+
+xapibus_pvta.xml pvta bus stops downloaded via osm xapi
+
+xapibus.xml bus stops downloaded via osm xapi
+
+
 TGFS data
 =========
 

@@ -1,0 +1,2907 @@
+Route: 30
+    stop: 34  Puffton Village 1
+    stop: 35  Puffton Village 2
+    stop: 38  North Village
+    stop: 42  Fairfield Street
+    stop: 58  GRC
+    stop: 64  Hasbrouck
+    stop: 71  Fine Arts Center
+    stop: 72  Studio Arts Building
+    stop: 81  Fearing Street (In)
+    stop: 82  Fearing Street (Out)
+    stop: 93  Pray Street (Out)
+    stop: 94  Pray Street (In)
+    stop: 95  Cowles Lane
+    stop: 96  Amherst Post Office
+    stop: 102  Amherst Glass (Out)
+    stop: 104  Gray Street (In)
+    stop: 105  Churchill Street
+    stop: 106  Gray Street (Out)
+    stop: 108  Amherst Crossing (In)
+    stop: 109  Amherst Crossing (Out)
+    stop: 110  Amherst Town Hall
+    stop: 115  Amherst Glass (In)
+    stop: 118  Colonial Village (In)
+    stop: 119  Colonial Village (Out)
+    stop: 120  Colonial Village / S East Street (In)
+    stop: 121  Colonial Village / S East Street (Out)
+    stop: 134  Rolling Green (Out)
+    stop: 135  Rolling Green (In)
+    stop: 138  Logtown Road (In)
+    stop: 139  Logtown Road (Out)
+    stop: 141  Valley Medical
+    stop: 148  Old Belchertown Road
+    stop: 149  Old Belchertown Road (Out)
+    stop: 8000  Hall Drive
+    stop: 8002  Old Belchertown Road 2
+Route: 31
+    stop: 6  Garage Road (Out)
+    stop: 7  Pioneer Vally Apts.
+    stop: 8  Goten Restaurant
+    stop: 9  Sugarloaf Estates
+    stop: 10  Silver Lane
+    stop: 11  Cliffside
+    stop: 12  Seven Eleven
+    stop: 15  Laurenitis Farm Stand (In)
+    stop: 17  Plumtree Road (In)
+    stop: 20  Bioshelter (In)
+    stop: 30  Townhouse (In)
+    stop: 32  North Amherst (In)
+    stop: 38  North Village
+    stop: 42  Fairfield Street
+    stop: 58  GRC
+    stop: 71  Fine Arts Center
+    stop: 72  Studio Arts Building
+    stop: 81  Fearing Street (In)
+    stop: 82  Fearing Street (Out)
+    stop: 93  Pray Street (Out)
+    stop: 94  Pray Street (In)
+    stop: 95  Cowles Lane
+    stop: 96  Amherst Post Office
+    stop: 112  Amherst Common (N)
+    stop: 113  Amherst Common (S)
+    stop: 132  Memorial Drive (Out)
+    stop: 133  Memorial Drive (In)
+    stop: 147  Columbia Drive (In)
+    stop: 151  The Brook (Out)
+    stop: 152  The Brook (In)
+    stop: 153  Southpoint
+    stop: 157  The Boulders
+    stop: 8006  Sunderland Center
+    stop: 8011  Columbia Drive (Out)
+Route: 32
+    stop: 21  Mill Hollow Apts.
+    stop: 22  Market Hill Road
+    stop: 23  Summer Street (Out)
+    stop: 24  Cushman Day School
+    stop: 25  Cushman Center
+    stop: 26  Pine Street
+    stop: 27  N Amherst - Rt 63 (In)
+    stop: 28  State Street
+    stop: 32  North Amherst (In)
+    stop: 33  Grantwood Drive
+    stop: 36  Cherry Lane
+    stop: 38  North Village
+    stop: 39  Sheerman Lane
+    stop: 40  Tilson Farm (Out)
+    stop: 42  Fairfield Street
+    stop: 45  Sylvan (Out)
+    stop: 47  Totman Gym (Out)
+    stop: 56  Arnold House
+    stop: 58  GRC
+    stop: 63  Morrill
+    stop: 64  Hasbrouck
+    stop: 71  Fine Arts Center
+    stop: 72  Studio Arts Building
+    stop: 81  Fearing Street (In)
+    stop: 82  Fearing Street (Out)
+    stop: 93  Pray Street (Out)
+    stop: 94  Pray Street (In)
+    stop: 95  Cowles Lane
+    stop: 96  Amherst Post Office
+    stop: 112  Amherst Common (N)
+    stop: 113  Amherst Common (S)
+    stop: 132  Memorial Drive (Out)
+    stop: 133  Memorial Drive (In)
+    stop: 145  Mill Street (In)
+    stop: 155  Shay Street
+    stop: 158  Wentworth Drive
+    stop: 167  Crocker Farm (Out)
+    stop: 181  South Amherst Common
+    stop: 184  Dairy Mart (Out)
+    stop: 185  Middle Street (E)
+    stop: 186  Carriage Lane (E)
+    stop: 187  Pomeroy Lane (E)
+    stop: 193  Tracy Circle (W)
+    stop: 195  Tracy Circle (E)
+    stop: 196  Farmington (N)
+    stop: 206  Farmington (S)
+    stop: 217  Longmeadow Drive
+    stop: 221  Potwine Lane (In)
+    stop: 222  Potwine Lane (Out)
+    stop: 247  Eric Carle Museum
+    stop: 255  Atkins Farm (In)
+    stop: 257  Atkins Farm (Out)
+    stop: 8008  Sand Hill Road
+    stop: 8010  Mill Street (Out)
+    stop: 8024  Pulpit Hill Road 1
+    stop: 8025  Pulpit Hill Road 2
+    stop: 9053  Summer Street (In)
+    stop: 9999  North Amherst-Rt 63 (Out)
+Route: 37
+    stop: 41  Tilson Farm (In)
+    stop: 44  Sylvan (In)
+    stop: 46  Totman Gym (In)
+    stop: 54  Village Park (N)
+    stop: 58  GRC
+    stop: 62  Dickinson Dorm
+    stop: 65  Chadbourne (N)
+    stop: 68  Butterfield Dorm (W)
+    stop: 71  Fine Arts Center
+    stop: 79  Chestnut Street (N)
+    stop: 82  Fearing Street (Out)
+    stop: 85  Triangle Street (N)
+    stop: 93  Pray Street (Out)
+    stop: 94  Pray Street (In)
+    stop: 95  Cowles Lane
+    stop: 96  Amherst Post Office
+    stop: 103  Jones Library (Out)
+    stop: 107  Lincoln Avenue (Out)
+    stop: 114  Amity Place (Out)
+    stop: 123  Amherst Community Health Ctr (Out)
+    stop: 124  Amherst Community Health Ctr (In)
+    stop: 125  Big Y
+    stop: 127  Stop and Shop
+    stop: 128  Greenleaves Drive
+    stop: 9050  Amity Place (In)
+    stop: 9051  Lincoln Avenue (In)
+    stop: 9052  Jones Library (In)
+Route: 45
+    stop: 58  GRC
+    stop: 64  Hasbrouck
+    stop: 71  Fine Arts Center
+    stop: 72  Studio Arts Building
+    stop: 81  Fearing Street (In)
+    stop: 82  Fearing Street (Out)
+    stop: 93  Pray Street (Out)
+    stop: 94  Pray Street (In)
+    stop: 95  Cowles Lane
+    stop: 96  Amherst Post Office
+    stop: 99  Thayer Street (Out)
+    stop: 102  Amherst Glass (Out)
+    stop: 104  Gray Street (In)
+    stop: 105  Churchill Street
+    stop: 106  Gray Street (Out)
+    stop: 108  Amherst Crossing (In)
+    stop: 109  Amherst Crossing (Out)
+    stop: 110  Amherst Town Hall
+    stop: 111  Heatherstone Road (Out)
+    stop: 115  Amherst Glass (In)
+    stop: 135  Rolling Green (In)
+    stop: 138  Logtown Road (In)
+    stop: 148  Old Belchertown Road
+    stop: 149  Old Belchertown Road (Out)
+    stop: 154  Mayflower Apts. (In)
+    stop: 156  Mayflower Apts. (Out)
+    stop: 164  Warren Wright Road (Out)
+    stop: 165  Warren Wright Road (In)
+    stop: 197  North Street (In)
+    stop: 198  North Street (Out)
+    stop: 231  Gulf Road (In)
+    stop: 232  Gulf Road (Out)
+    stop: 240  Diane Lane (In)
+    stop: 241  Diane Lane (Out)
+    stop: 248  Hollen Glen (In)
+    stop: 250  Hollen Glen (Out)
+    stop: 264  Cedarwood Apts. (Out)
+    stop: 265  Cedarwood Apts. (In)
+    stop: 269  Glenn's Glen (In)
+    stop: 270  Glenn's Glen (Out)
+    stop: 273  Bay Road (In)
+    stop: 274  Bay Road (Out)
+    stop: 276  Quabbin Village (In)
+    stop: 278  Quabbin Village (Out)
+    stop: 291  Belchertown Center 1
+    stop: 294  Belchertown Center 2
+    stop: 2780  Woodhaven Drive (In)
+    stop: 2781  Woodhaven Drive (Out)
+    stop: 9901  Thayer Street (In)
+    stop: 11101  Heatherstone Road (In)
+Route: 46
+    stop: 1  South Deerfield Center
+    stop: 2  Mountain Road (Out)
+    stop: 3  Mountain Road (In)
+    stop: 4  Sugarloaf Street (Out)
+    stop: 5  Sugarloaf Street (In)
+    stop: 6  Garage Road (Out)
+    stop: 9  Sugarloaf Estates
+    stop: 11  Cliffside
+    stop: 12  Seven Eleven
+    stop: 13  Bagdon Farm
+    stop: 14  Laurenitis Farm Stand (Out)
+    stop: 15  Laurenitis Farm Stand (In)
+    stop: 17  Plumtree Road (In)
+    stop: 18  Plumtree Road (Out)
+    stop: 19  Bioshelter (Out)
+    stop: 20  Bioshelter (In)
+    stop: 31  North Amherst (Out)
+    stop: 32  North Amherst (In)
+    stop: 38  North Village
+    stop: 42  Fairfield Street
+    stop: 58  GRC
+    stop: 72  Studio Arts Building
+    stop: 8005  Garage Road (In)
+    stop: 8006  Sunderland Center
+    stop: 8009  Sunderland Center (S. Deerfield bound)
+Route: B12
+    stop: 418  Stonybrook Visitor Entrance
+    stop: 454  Stonybrook Prerelease
+    stop: 1909  Springfield Post Office
+Route: B13
+    stop: 1450  Springfield Bus Terminal
+    stop: 1467  Main/Worthington
+    stop: 1474  MAIN / BRIDGE
+    stop: 1475  Main and Harrison
+    stop: 1487  MAPLE / HIGH
+    stop: 1494  MAPLE / UNION
+    stop: 1498  MAPLE / UNION
+    stop: 1504  MAPLE / AVON
+    stop: 1506  MAPLE / AVON
+    stop: 1508  STERNS / CENTRAL
+    stop: 1511  CENTRAL / STERNS
+    stop: 1512  CENTRAL / CEDAR
+    stop: 1514  CENTRAL / CEDAR
+    stop: 1520  CENTRAL / PINE
+    stop: 1521  CENTRAL / PINE
+    stop: 1531  CENTRAL / BEECH
+    stop: 1537  CENTRAL / SPRUCE
+    stop: 1538  CENTRAL / SPRUCE
+    stop: 1546  1 Stop Plaza
+    stop: 1547  RIFLE / ALLEN
+    stop: 1549  CENTRAL / HANCOCK
+    stop: 1551  CENTRAL / RIFLE
+    stop: 1554  ALLEN / MALDEN
+    stop: 1555  ALLEN / MALDEN
+    stop: 1560  WHITE / REVERE
+    stop: 1561  WHITE / REVERE
+    stop: 1581  WHITE / GRAND
+    stop: 1584  WHITE / GRAND
+    stop: 1613  WHITE / ORANGE
+    stop: 1616  WHITE / ORANGE
+    stop: 1658  WHITE / DAWSON
+    stop: 1668  WHITE / MANSFIELD
+    stop: 1673  WHITE / SCOTT
+    stop: 1684  WHITE / STRATFORD
+    stop: 1685  WHITE / AINSWORTH
+    stop: 1701  WHITE / KIMBERLY
+    stop: 1704  WHITE / KIMBERLY
+    stop: 1721  WHITE / PRISCILLA
+    stop: 1723  WHITE / PRISCILLA
+    stop: 1740  WHITE / MORNINGSIDE
+    stop: 1748  WHITE / LONGFELLOW
+    stop: 1752  WHITE / LARKSPUR
+    stop: 1771  WHITE / BLAINE
+    stop: 1772  Belmont/Kenwood Park
+    stop: 1775  Belmont/Fountain(opposite)
+    stop: 1785  White/Eleanor
+    stop: 1789  White/Manitoba
+    stop: 1791  White/Sunapee
+    stop: 1797  N. Main/Rosemont
+    stop: 1798  Main/Van Dyke
+    stop: 1800  MAIN / DORSET
+    stop: 1802  Main/Gerrard
+    stop: 1805  Big Y East Longmeadow
+    stop: 1807  Main/Lombard(opposite)
+    stop: 1808  MAIN / LOMBARD
+    stop: 1812  STOP AND SHOP DRIVE (EAST LONGMEADOW N. MAIN)
+    stop: 1817  MAIN / DEARBORN
+    stop: 1828  MAIN / SHAW
+    stop: 1830  MAIN / SHAW
+    stop: 1835  MAIN / RAMP
+    stop: 1840  MAIN / FRANKWYN
+    stop: 1855  MAIN / BROOK
+    stop: 1860  MAIN / ELM
+    stop: 1864  BROWNSTONE APT DRIVE / BROWNSTONE
+    stop: 1868  SOMERS / PARK
+    stop: 1870  SOMERS / UNNAMED STREET
+    stop: 1874  QUARRY HILL APT ROAD / QUARRY
+    stop: 1924  Main/Hampden
+    stop: 6009  Mass Mutual Center
+    stop: 6016  CHESTNUT / EDWARDS
+    stop: 6420  WHITE / PASADENA
+    stop: 6808  WHITE / DAWSON
+    stop: 9002  Liberty and Main #2
+    stop: 9040  Harrison  St. Outbound
+    stop: 9317  State and Chestnut(Tripper Timepoint)
+Route: B15
+    stop: 1074  OAK GROVE / BAY
+    stop: 1088  PRINCETON / VASSAR
+    stop: 1092  SAINT JAMES / PRINCETON
+    stop: 1094  CAMBRIDGE / BAY
+    stop: 1095  PRINCETON / YALE
+    stop: 1096  BAY / DAWES
+    stop: 1098  PRINCETON / YALE
+    stop: 1099  SAINT JAMES / WELLESLEY
+    stop: 1102  PRINCETON / BAY
+    stop: 1106  BAY / CLIFFORD
+    stop: 1108  BAY / CLIFFORD
+    stop: 1111  PRINCETON / BAY
+    stop: 1116  OAK GROVE / ACORN
+    stop: 1123  CAMBRIDGE / BAY
+    stop: 1124  SAINT JAMES / WORTHINGTON
+    stop: 1164  OAK GROVE / BURR
+    stop: 1165  SAINT JAMES / CLARENDON
+    stop: 1175  SAINT JAMES / CLARENDON
+    stop: 1180  CAMBRIDGE / BURR
+    stop: 1227  SAINT JAMES / THOMPSON
+    stop: 1241  SAINT JAMES / THOMPSON
+    stop: 1256  SAINT JAMES / FLORIDA
+    stop: 1268  WORTHINGTON / FEDERAL
+    stop: 1272  SAINT JAMES / FLORIDA
+    stop: 1289  FEDERAL / WORTHINGTON
+    stop: 1293  FEDERAL / PEARL
+    stop: 1303  SAINT JAMES / RIPLEY
+    stop: 1304  MAGAZINE / BOWDOIN
+    stop: 1307  MAGAZINE / LINCOLN
+    stop: 1308  SAINT JAMES / RIPLEY
+    stop: 1318  Springfield Technical Community College (Pearl St)
+    stop: 1324  Springfield Tech Community College
+    stop: 1325  MAGAZINE / LINCOLN
+    stop: 1333  Salvation Army (Pearl St.)
+    stop: 1344  Salvation Army (Pearl St.)
+    stop: 1348  PEARL / BYERS
+    stop: 1370  PEARL / SPRING
+    stop: 1384  PEARL / SPRING
+    stop: 1420  BRIDGE / CHESTNUT
+    stop: 1430  PEARL / HILLMAN
+    stop: 1450  Springfield Bus Terminal
+    stop: 1457  DWIGHT / HARRISON
+    stop: 1466  WORTHINGTON / MAIN
+    stop: 1467  Main/Worthington
+    stop: 1474  MAIN / BRIDGE
+    stop: 1475  Main and Harrison
+    stop: 1921  DWIGHT / WORTHINGTON
+    stop: 1922  WORTHINGTON / STEARNS
+    stop: 1924  Main/Hampden
+    stop: 6910  WORTHINGTON / FEDERAL
+    stop: 9002  Liberty and Main #2
+Route: B17
+    stop: 721  BOSTON / BRAINARD
+    stop: 723  MAIN / MAPLE
+    stop: 724  MAIN / MAPLE
+    stop: 740  MAIN / NOKOMIS
+    stop: 742  BOSTON / STONY HILL
+    stop: 755  BOSTON / DUDLEY
+    stop: 760  BOSTON / HATCH
+    stop: 764  BOSTON / BIDDLE
+    stop: 797  Boston Rd. Opposite Eastfield Mall
+    stop: 801  Eastfield Mall (Flag Stop)
+    stop: 806  Eastfield Mall 3
+    stop: 809  MAIN / FOX HILL
+    stop: 824  Eastfield Mall (Flag Stop)
+    stop: 828  BERKSHIRE / HARVEY
+    stop: 838  PARKER / FREDERIC
+    stop: 839  FERNBANK / BULAT
+    stop: 847  PARKER / ELLERY
+    stop: 864  MAIN / DELMORE
+    stop: 876  PARKER / GRAYSON
+    stop: 889  PARKER / HERMITAGE
+    stop: 894  PARKER / OVERLEA
+    stop: 911  PARKER / SONIA
+    stop: 921  PARKER / RAVENWOOD
+    stop: 946  PARKER / SUNNYBROOK
+    stop: 951  BEACON / DRIVEWAY
+    stop: 964  PARKER / PATRICIA
+    stop: 966  PARKER / PATRICIA
+    stop: 971  MAIN / BULKLEY
+    stop: 991  PARKER / NASSAU
+    stop: 996  PARKER / GARY
+    stop: 1004  MAIN / FACULTY
+    stop: 1020  PARKER / SUNRISE
+    stop: 1030  PARKER / SUNRISE
+    stop: 1038  PARKER / BREWSTER
+    stop: 1050  SPRINGFIELD / MAIN
+    stop: 1058  PARKER / MALLOWHILL
+    stop: 1073  SPRINGFIELD / STONY HILL
+    stop: 1076  SPRINGFIELD / CHAPIN
+    stop: 1078  PARKER / BURNS
+    stop: 1086  STONY HILL / SPRINGFIELD
+    stop: 1100  PARKER / VINCENT
+    stop: 1125  WILBRAHAM / BELLWOOD
+    stop: 1129  WILBRAHAM / PINEVIEW
+    stop: 1131  WILBRAHAM / GRANGER
+    stop: 1132  WILBRAHAM / DENWALL
+    stop: 1133  WILBRAHAM / CATALPA
+    stop: 1134  WILBRAHAM / JONQUIL
+    stop: 1135  Wilbraham and Fenway (Northside)
+    stop: 1136  WILBRAHAM / BIRCHLAND
+    stop: 1140  Wilbraham and Jeffrey (south side)
+    stop: 1142  WILBRAHAM / LUMAE
+    stop: 1145  WILBRAHAM / LUMAE
+    stop: 1156  PARKER / RAMP
+    stop: 1160  Springfield / Brooklawn(Flag stop - signal driver)
+    stop: 1162  WILBRAHAM / PARK
+    stop: 1166  SPRINGFIELD / WILBRAVIEW
+    stop: 1167  WILBRAHAM / PARK
+    stop: 1174  WILBRAHAM / SPRINGFIELD
+    stop: 1177  Duggan Middle School
+    stop: 1178  WILBRAHAM / KANE
+    stop: 1183  Duggan Middle School
+    stop: 1184  WILBRAHAM / KANE
+    stop: 1186  PARKER / WILBRAHAM
+    stop: 1188  WILBRAHAM / GLENOAK
+    stop: 1189  WILBRAHAM / GLENOAK
+    stop: 1192  WILBRAHAM / PINE ACRE
+    stop: 1198  WILBRAHAM / PINE ACRE
+    stop: 1204  WILBRAHAM / PEEKSKILL
+    stop: 1206  WILBRAHAM / BARRISON
+    stop: 1210  WILBRAHAM / BARRISON
+    stop: 1212  PLUMTREE / PURITAN
+    stop: 1216  WILBRAHAM / DELMORE
+    stop: 1219  WILBRAHAM / ABERDALE
+    stop: 1224  WILBRAHAM / MARINE
+    stop: 1226  WILBRAHAM / MARINE
+    stop: 1228  WILBRAHAM / WALSH
+    stop: 1230  WILBRAHAM / CABINET
+    stop: 1234  WILBRAHAM / MONTICELLO
+    stop: 1236  WILBRAHAM / MONTICELLO
+    stop: 1237  WILBRAHAM / SENATOR
+    stop: 1240  WILBRAHAM / TRUMAN
+    stop: 1242  WILBRAHAM / TRUMAN
+    stop: 1243  BRADLEY / FREDETTE
+    stop: 1244  WILBRAHAM / MARCHIONESS
+    stop: 1246  WILBRAHAM / UNNAMED STREET
+    stop: 1247  WILBRAHAM / MARCHIONESS
+    stop: 1248  BRADLEY / FREDETTE
+    stop: 1249  WILBRAHAM / UNNAMED STREET
+    stop: 1252  WILBRAHAM / OLD ACRE
+    stop: 1255  WILBRAHAM / ALDEN
+    stop: 1259  WILBRAHAM / NORFOLK
+    stop: 1261  WILBRAHAM / CARLISLE
+    stop: 1262  PLUMTREE / SHERWOOD
+    stop: 1264  WILBRAHAM / NORFOLK
+    stop: 1265  WILBRAHAM / ALDEN
+    stop: 1268  WORTHINGTON / FEDERAL
+    stop: 1271  WILBRAHAM / SUFFOLK
+    stop: 1275  WILBRAHAM / LAKESIDE
+    stop: 1276  WILBRAHAM / BENTON
+    stop: 1278  WILBRAHAM / SUFFOLK
+    stop: 1283  WILBRAHAM / REED
+    stop: 1284  WILBRAHAM / ROCHELLE
+    stop: 1288  WORTHINGTON / KIBBE
+    stop: 1289  FEDERAL / WORTHINGTON
+    stop: 1292  WILBRAHAM / ALBEMARLE
+    stop: 1293  FEDERAL / PEARL
+    stop: 1294  BRADLEY / FREDETTE
+    stop: 1295  BRADLEY / VALLEY
+    stop: 1297  AIC (Wilbraham Rd)
+    stop: 1300  American International College
+    stop: 1302  MLK Community Center (Wilbraham Rd)
+    stop: 1304  MAGAZINE / BOWDOIN
+    stop: 1305  PLUMTREE / HAZEN
+    stop: 1306  WORTHINGTON / SACKETT
+    stop: 1307  MAGAZINE / LINCOLN
+    stop: 1309  Mason Square
+    stop: 1310  WILBRAHAM / RUTLAND
+    stop: 1311  WILBRAHAM / COLTON
+    stop: 1313  BRADLEY / KEDDY
+    stop: 1315  WILBRAHAM / COLTON
+    stop: 1318  Springfield Technical Community College (Pearl St)
+    stop: 1320  WORTHINGTON / SACKETT
+    stop: 1321  WORTHINGTON / SACKETT
+    stop: 1323  Mason Square (Inbound)
+    stop: 1324  Springfield Tech Community College
+    stop: 1325  MAGAZINE / LINCOLN
+    stop: 1326  MAGAZINE / LINCOLN
+    stop: 1327  Mason Square
+    stop: 1328  STATE/THOMPSON
+    stop: 1332  STATE/HANCOCK
+    stop: 1333  Salvation Army (Pearl St.)
+    stop: 1339  State/Stebbins
+    stop: 1340  STATE / ORLEANS
+    stop: 1341  STATE / ORLEANS
+    stop: 1342  BRADLEY / SHIRLEY
+    stop: 1344  Salvation Army (Pearl St.)
+    stop: 1346  WORTHINGTON / WORTHINGTON
+    stop: 1348  PEARL / BYERS
+    stop: 1349  BRADLEY / EMERALD
+    stop: 1354  WORTHINGTON / SPRING
+    stop: 1357  WORTHINGTON / SPRING
+    stop: 1364  PLUMTREE / EMBASSY
+    stop: 1368  BRADLEY / CHEROKEE
+    stop: 1370  PEARL / SPRING
+    stop: 1373  BRADLEY / CHEROKEE
+    stop: 1384  PEARL / SPRING
+    stop: 1393  TINKHAM / MAIN
+    stop: 1395  WORTHINGTON / CHESTNUT
+    stop: 1397  PLUMTREE / TALBOT
+    stop: 1398  WORTHINGTON / CHESTNUT
+    stop: 1410  PLUMTREE / TALBOT
+    stop: 1416  TAYLOR / DWIGHT
+    stop: 1420  BRIDGE / CHESTNUT
+    stop: 1425  TINKHAM / MOUNTAINBROOK
+    stop: 1430  PEARL / HILLMAN
+    stop: 1450  Springfield Bus Terminal
+    stop: 1457  DWIGHT / HARRISON
+    stop: 1459  BRADLEY / PLUMTREE
+    stop: 1460  PLUMTREE / GLENVALE
+    stop: 1462  PLUMTREE / GLENVALE
+    stop: 1466  WORTHINGTON / MAIN
+    stop: 1467  Main/Worthington
+    stop: 1468  PLUMTREE / EVERGREEN
+    stop: 1469  BRADLEY / PLUMTREE
+    stop: 1471  PLUMTREE / OLD FARM
+    stop: 1472  PLUMTREE / OLD FARM
+    stop: 1473  PLUMTREE / OLD FARM
+    stop: 1474  MAIN / BRIDGE
+    stop: 1475  Main and Harrison
+    stop: 1486  TINKHAM / STONY HILL
+    stop: 1921  DWIGHT / WORTHINGTON
+    stop: 1922  WORTHINGTON / STEARNS
+    stop: 1923  This stop is no longer used
+    stop: 1924  Main/Hampden
+    stop: 5023  2133 or 2110 Boston Rd (Flag stop - signal driver)
+    stop: 5024  Boston Rd / Brainard (Flag stop - signal driver)
+    stop: 5025  2443 or 2440 Boston Rd (Flag stop - signal driver)
+    stop: 5026  Boston Rd / PO Park (Flag stop - signal driver)
+    stop: 5027  Boston Rd / Railroad (Flag stop - signal driver)
+    stop: 5032  Sprinfield/ Ripley (Flag stop - signal driver)
+    stop: 5033  Springfield / Faculty (Flag stop - signal driver)
+    stop: 5035  Springfield / Northwood(Flag stop - signal driver)
+    stop: 5036  Main / Buckley (Flag stop - signal driver)
+    stop: 5037  Main / Pease (Flag stop - signal driver)
+    stop: 5038  Main / Merrill (Flag stop - signal driver)
+    stop: 6026  STATE / PLEASANT
+    stop: 6910  WORTHINGTON / FEDERAL
+    stop: 11140  Stony Hill and Boston Rd(IB)
+Route: B23
+    stop: 352  University Park Apt
+    stop: 360  HAMPDEN / PLEASANT
+    stop: 361  HAMPDEN / NONOTUCK
+    stop: 362  HAMPDEN / ARLINGTON
+    stop: 367  DWIGHT / NONOTUCK
+    stop: 368  DWIGHT / SAINT JEROME
+    stop: 369  DWIGHT / LYNWOOD
+    stop: 373  APPLETON / POPLAR
+    stop: 381  APPLETON / OAK
+    stop: 386  Sullivan School
+    stop: 387  HIGH / DWIGHT
+    stop: 390  APPLETON / WALNUT
+    stop: 393  MAPLE / SUFFOLK
+    stop: 398  HIGH / SUFFOLK
+    stop: 404  APPLETON / MAPLE
+    stop: 408  MAPLE / APPLETON
+    stop: 412  HIGH / APPLETON
+    stop: 414  MAPLE / ESSEX
+    stop: 415  HAMPSHIRE / BEECH
+    stop: 416  BEECH / HAMPSHIRE
+    stop: 419  HIGH / ESSEX
+    stop: 422  HAMPSHIRE / PINE
+    stop: 423  BEECH / SARGEANT
+    stop: 424  HAMPSHIRE / WALNUT
+    stop: 425  CHERRY / DALE
+    stop: 427  CHERRY / MAPLE CREST
+    stop: 429  MAPLE / CABOT
+    stop: 430  HIGH / CABOT
+    stop: 433  HAMPSHIRE / CHESTNUT
+    stop: 434  HAMPSHIRE / CHESTNUT
+    stop: 436  BEECH / FRANKLIN
+    stop: 439  MAPLE / HAMPSHIRE
+    stop: 440  BEECH / FRANKLIN
+    stop: 443  Cherry and Leary
+    stop: 447  HAMPSHIRE / HIGH
+    stop: 448  Beech and Linden
+    stop: 451  Cherry and Homestead
+    stop: 453  MAPLE / SARGEANT
+    stop: 456  HOSPITAL / PARKING LOT
+    stop: 459  MAPLE / SARGEANT
+    stop: 461  BEECH / BEECH
+    stop: 464  BEECH / HOSPITAL
+    stop: 466  Maple and Jackson
+    stop: 467  BEECH / HOSPITAL
+    stop: 468  BEECH / NORTHAMPTON
+    stop: 470  SOLDIERS HOME / FAIRMONT
+    stop: 471  CHERRY / BAY STATE
+    stop: 472  CHERRY / HILLSIDE
+    stop: 474  CHERRY / BAY STATE
+    stop: 476  HILLSIDE / MERKEL
+    stop: 481  MAIN / SARGEANT
+    stop: 485  South and Maple
+    stop: 489  HILLSIDE / WESTFIELD
+    stop: 490  SOUTH / SOUTH STREET PLAZA DRIVE
+    stop: 491  FROST CIRCLE / COLLEGE
+    stop: 492  HILLSIDE / WESTFIELD
+    stop: 493  MAIN / JACKSON
+    stop: 494  SOUTH / HARRISON
+    stop: 498  WESTFIELD / HITCHCOCK
+    stop: 499  HOMESTEAD / LORRAINE
+    stop: 502  WESTFIELD / WOODLAND
+    stop: 503  WESTFIELD / WOODLAND
+    stop: 505  HOMESTEAD / SHEEHAN
+    stop: 508  MAIN / BERKSHIRE
+    stop: 509  The Kids Place at HCC
+    stop: 511  WESTFIELD / BRAY PARK
+    stop: 512  WESTFIELD / BRAY PARK
+    stop: 514  MAIN / RACE
+    stop: 516  MAIN / RACE
+    stop: 517  WESTFIELD / CONNECTICUT
+    stop: 519  WESTFIELD / CONNECTICUT
+    stop: 520  HOMESTEAD / MEMORIAL
+    stop: 521  MAIN / VERNON
+    stop: 522  WESTFIELD / MEMORIAL
+    stop: 525  WESTFIELD / MCGRADY
+    stop: 526  WESTFIELD / JOHNS
+    stop: 527  MAIN / PREW
+    stop: 561  NORTH / GUN CLUB
+    stop: 562  NORTH / GUN CLUB
+    stop: 567  MAIN / DEAN TECH DRIVE
+    stop: 1019  Westfield Center
+    stop: 5053  Westfield / Aprement (Flag stop - signal driver)
+    stop: 5054  Westfield / Apremont (Flag stop - signal driver)
+    stop: 5055  Westfield / Rider (Flag stop - signal driver)
+    stop: 5056  Westfield / Old Stage (Flag stop - signal driver)
+    stop: 5057  Westfield /Southampton (Flag stop - signal driver)
+    stop: 5058  Southampton / Falcon (Flag stop - signal driver)
+    stop: 5059  Southampton/ Air Port (Flag stop - signal driver)
+    stop: 5060  Southampton / Hickney  (Flag stop - signal driver)
+    stop: 5061  Mass Pike/FriendleyWay (Flag stop - signal driver)
+    stop: 5062  N ELm / Notredame (Flag stop - signal driver)
+    stop: 5063  N Elm / Union (Flag stop - signal driver)
+    stop: 6415  CHERRY / MAPLE CREST
+    stop: 6416  HOMESTEAD / MEMORIAL
+    stop: 6802  ELM / HARVARD
+    stop: 6803  ELM / ARCH
+    stop: 9089  HTC Gate 4
+    stop: 11003  HOLYOKE HIGH
+    stop: 11008  Dean Tech
+    stop: 11011  Jarvis and Easthampton
+    stop: 11115  Cherry and Homestead
+    stop: 11116  Homestead and Cherry
+Route: B4
+    stop: 994  3350 Main St
+    stop: 1000  PLAINFIELD / WASON
+    stop: 1007  3300 Main Street
+    stop: 1014  Main/Noble
+    stop: 1017  PLAINFIELD / DEMOND
+    stop: 1024  PLAINFIELD / LAUREL
+    stop: 1039  PLAINFIELD / BRIGHTWOOD
+    stop: 1052  PLAINFIELD / ABBE
+    stop: 1062  PLAINFIELD / ABBE
+    stop: 1066  Main/Cumberland
+    stop: 1068  Main/Cumberland(opposite)
+    stop: 1083  PLAINFIELD / CLAYTON
+    stop: 1091  PLAINFIELD / CLAYTON
+    stop: 1093  Main/Portland
+    stop: 1097  Main/Waverly
+    stop: 1110  SANDERSON / SANDERSON
+    stop: 1112  SANDERSON / WHITING
+    stop: 1113  SANDERSON / WHITING
+    stop: 1115  Main/Medford
+    stop: 1117  SANDERSON / DIVISION
+    stop: 1120  SANDERSON / DIVISION
+    stop: 1127  Main / Hooker St.
+    stop: 1128  Main / E. Hooker St.
+    stop: 1152  SANDERSON / DIVISION
+    stop: 1158  CLYDE / SANDERSON
+    stop: 1179  CLYDE / PLAINFIELD
+    stop: 1181  CLYDE / PLAINFIELD
+    stop: 1193  Clyde St. (#2)
+    stop: 1195  CLYDE / M
+    stop: 1214  PLAINFIELD / ORCHARD
+    stop: 1220  PLAINFIELD / ORCHARD
+    stop: 1257  PLAINFIELD / LOWELL
+    stop: 1260  PLAINFIELD / LOWELL
+    stop: 1316  Plainfield St. across from John
+    stop: 1319  PLAINFIELD / JOHN
+    stop: 1335  Main / St. George (1)
+    stop: 1905  Main/St. George (2)
+    stop: 1906  Main/Boylston
+    stop: 1907  Main/Patton
+    stop: 1909  Springfield Post Office
+    stop: 6027  CLYDE / M
+    stop: 6028  CLYDE / PLAINFIELD
+    stop: 9013  Liberty St. Gas Station
+    stop: 9312  Carew and Main(Tripper Timepoint)
+    stop: 9323  Carew and Main(Tripper Timepoint)
+Route: B43
+    stop: 73  Haigis Mall
+    stop: 75  Visitors Center
+    stop: 77  WFCR
+    stop: 78  Southwest Shelter
+    stop: 81  Fearing Street (In)
+    stop: 82  Fearing Street (Out)
+    stop: 86  Southwest/University Drive (S)
+    stop: 87  Southwest/University Drive (N)
+    stop: 93  Pray Street (Out)
+    stop: 94  Pray Street (In)
+    stop: 95  Cowles Lane
+    stop: 96  Amherst Post Office
+    stop: 112  Amherst Common (N)
+    stop: 113  Amherst Common (S)
+    stop: 116  Amherst College
+    stop: 123  Amherst Community Health Ctr (Out)
+    stop: 124  Amherst Community Health Ctr (In)
+    stop: 128  Greenleaves Drive
+    stop: 130  Russell/Campus Plaza (Pride)
+    stop: 136  Russell/Russell (Staples)
+    stop: 137  Russell/Rte 9 (Holiday Inn Express)
+    stop: 140  Hampshire Mall
+    stop: 142  Mountain Farms Mall
+    stop: 144  Russell/Russell (The Stables)
+    stop: 146  Russell/Russell (Whole Foods)
+    stop: 159  RUSSELL / SPRUCE HILL
+    stop: 160  RUSSELL / SPRUCE HILL
+    stop: 161  RUSSELL / NASHUA
+    stop: 162  Russell/Pine Hill
+    stop: 168  Russell/East (RMV)
+    stop: 169  RUSSELL / EAST
+    stop: 171  RUSSELL / MIDDLE
+    stop: 172  RUSSELL / MIDDLE
+    stop: 173  RUSSELL / STATE HWY 9
+    stop: 174  RUSSELL / WEST
+    stop: 175  RUSSELL / ELMWOOD
+    stop: 176  RUSSELL / ELMWOOD
+    stop: 178  Russell/Bay
+    stop: 183  Russell/Bay (Barn Shops)
+    stop: 219  Damon Road
+    stop: 229  Sheldon Field (W)
+    stop: 230  Sheldon Field (E)
+    stop: 238  Pomeroy Terrace
+    stop: 244  Northampton Post Office
+    stop: 251  Smith College
+    stop: 252  Prospect Street
+    stop: 254  Northampton Court House
+    stop: 260  Masonic St/ Academy of Music OB
+    stop: 261  Academy of Music
+Route: B48
+    stop: 259  Northampton Lodging
+    stop: 261  Academy of Music
+    stop: 262  Pleasant St/ Hockanum Rd OB
+    stop: 268  Conz St/ Dialysis Center
+    stop: 9098  HTC Gate 1
+Route: B6
+    stop: 616  Big Y Ludlow
+    stop: 655  HUBBARD / MAPLE
+    stop: 657  HUBBARD / SEWALL
+    stop: 659  MAIN / OAK
+    stop: 661  MAIN / PINEVALE
+    stop: 662  MAIN / PINEVALE
+    stop: 665  MAIN / CEDAR
+    stop: 668  MAIN / CEDAR
+    stop: 669  OAK / WORCESTER
+    stop: 670  MAIN / LYONS
+    stop: 671  HUBBARD / EAST
+    stop: 672  WINSOR / SEWALL
+    stop: 674  MAIN / MONTGOMERY
+    stop: 675  MAIN / LYONS
+    stop: 677  CENTER / PARK
+    stop: 678  MAIN / ROGERS
+    stop: 680  MAIN / INDIAN LEAP
+    stop: 683  BERKSHIRE / CHESTNUT
+    stop: 684  BERKSHIRE / CHESTNUT
+    stop: 685  BERKSHIRE / MYRTLE
+    stop: 686  BERKSHIRE / MYRTLE
+    stop: 688  MAIN / ROGERS
+    stop: 689  BERKSHIRE / OAK
+    stop: 691  MAIN / ROGERS
+    stop: 693  BERKSHIRE / OAK
+    stop: 694  BERKSHIRE / HOLLY
+    stop: 695  SEWALL / EAST
+    stop: 696  BERKSHIRE / BERKSHIRE
+    stop: 698  MAIN / BANNER
+    stop: 699  MAIN / BANNER
+    stop: 701  BERKSHIRE / UNNAMED STREET
+    stop: 704  BERKSHIRE / FIBERLOID
+    stop: 708  BERKSHIRE / FIBERLOID
+    stop: 712  GOODWIN / LILAC
+    stop: 713  LILAC / GOODWIN
+    stop: 716  BERKSHIRE / DUTTON
+    stop: 718  GOODWIN / DARLING
+    stop: 719  GOODWIN / DARLING
+    stop: 722  BERKSHIRE / US HWY 20
+    stop: 728  GOODWIN / LAYZON BROTHERS
+    stop: 730  BERKSHIRE / SENECA
+    stop: 736  BERKSHIRE / OGDEN
+    stop: 750  BERKSHIRE / LORIMER
+    stop: 753  BERKSHIRE / SUPERIOR
+    stop: 757  BERKSHIRE / MICHIGAN
+    stop: 765  BERKSHIRE / CHAMPLAIN
+    stop: 791  BERKSHIRE / BABBIN
+    stop: 796  BERKSHIRE / COTTAGE
+    stop: 797  Boston Rd. Opposite Eastfield Mall
+    stop: 801  Eastfield Mall (Flag Stop)
+    stop: 806  Eastfield Mall 3
+    stop: 811  BOSTON / LUCERNE
+    stop: 823  BOSTON / FIELDSTON
+    stop: 824  Eastfield Mall (Flag Stop)
+    stop: 825  BOSTON / TEMBY
+    stop: 826  BERKSHIRE / HARVEY
+    stop: 828  BERKSHIRE / HARVEY
+    stop: 829  Boston Rd Mobile Home Park
+    stop: 859  BERKSHIRE / DEWEY
+    stop: 861  BERKSHIRE / ELIZABETH
+    stop: 866  Springfield Walmart
+    stop: 867  BERKSHIRE / ELIZABETH
+    stop: 874  BERKSHIRE / ELIZABETH
+    stop: 875  BERKSHIRE / RUSH
+    stop: 883  BERKSHIRE / ELIZABETH
+    stop: 896  BERKSHIRE / EGAN
+    stop: 901  BERKSHIRE / HARDING
+    stop: 903  BAY / HOOD
+    stop: 904  BAY / HOOD
+    stop: 905  BAY / BAY PATH
+    stop: 908  BAY / HASKIN
+    stop: 909  CLORAN / BAY
+    stop: 910  BAY / HASKIN
+    stop: 917  BAY / UNNAMED STREET
+    stop: 922  BAY / UNNAMED STREET
+    stop: 924  BAY / JASPER
+    stop: 925  BAY / JASPER
+    stop: 931  Robinson Gardens
+    stop: 934  BERKSHIRE / BAY
+    stop: 942  BAY / BLUNT PARK
+    stop: 944  BAY / BLUNT PARK
+    stop: 954  BAY / BLUNT PARK
+    stop: 977  BAY / BAYWOOD
+    stop: 981  BAY / BAYWOOD
+    stop: 997  BAY / GOLDENROD
+    stop: 1001  BAY / ASTER
+    stop: 1009  BAY / ASTER
+    stop: 1035  BAY / EDGEWOOD
+    stop: 1036  BAY / EDGEWOOD
+    stop: 1065  BAY / OAK GROVE
+    stop: 1070  BAY / OAK GROVE
+    stop: 1096  BAY / DAWES
+    stop: 1106  BAY / CLIFFORD
+    stop: 1114  BAY / PRINCETON
+    stop: 1127  Main / Hooker St.
+    stop: 1141  BAY / WELCOME
+    stop: 1151  BAY / BOWLES
+    stop: 1168  BAY / DARTMOUTH
+    stop: 1191  BAY / CLARENDON
+    stop: 1211  BAY / BUCKINGHAM
+    stop: 1213  BAY / BUCKINGHAM
+    stop: 1266  BAY / WESTMINSTER
+    stop: 1269  BAY / WESTMINSTER
+    stop: 1312  BAY / PLEASANT
+    stop: 1330  BAY / SAINT JAMES
+    stop: 1331  BAY / SAINT JAMES
+    stop: 1343  STATE / OAK
+    stop: 1350  STATE / STATE
+    stop: 1358  STATE / WALNUT
+    stop: 1387  Commerce High School
+    stop: 1413  Verizon Building
+    stop: 1415  STATE / WALNUT
+    stop: 1445  State/Spring
+    stop: 1450  Springfield Bus Terminal
+    stop: 1454  State/School
+    stop: 1467  Main/Worthington
+    stop: 1474  MAIN / BRIDGE
+    stop: 1475  Main and Harrison
+    stop: 1479  STATE / CHESTNUT
+    stop: 1495  Court Square
+    stop: 1923  This stop is no longer used
+    stop: 1924  Main/Hampden
+    stop: 6009  Mass Mutual Center
+    stop: 6016  CHESTNUT / EDWARDS
+    stop: 6030  Springfield Library
+    stop: 6289  MAIN / BRIDGE
+    stop: 6377  BAY / BLUNT PARK
+    stop: 6379  BERKSHIRE / CHAMPLAIN
+    stop: 6380  OAK / CATON
+    stop: 6400  BOSTON / LUCERNE
+    stop: 9002  Liberty and Main #2
+    stop: 9014  Main/Federal
+    stop: 9040  Harrison  St. Outbound
+    stop: 9140  Commerce High School (opposite)
+    stop: 9141  Central High School
+    stop: 9310  State and Main(Tripper Timepoint)
+    stop: 9311  Springfield Library
+    stop: 9313  St. James and Tapley(Tripper Timepoint)
+    stop: 9328  Tapley and St. James(Tripper Timepoint)
+Route: B7
+    stop: 764  BOSTON / BIDDLE
+    stop: 797  Boston Rd. Opposite Eastfield Mall
+    stop: 801  Eastfield Mall (Flag Stop)
+    stop: 806  Eastfield Mall 3
+    stop: 811  BOSTON / LUCERNE
+    stop: 823  BOSTON / FIELDSTON
+    stop: 824  Eastfield Mall (Flag Stop)
+    stop: 825  BOSTON / TEMBY
+    stop: 829  Boston Rd Mobile Home Park
+    stop: 837  Boston Rd CVS
+    stop: 840  Five Mile Pond Park
+    stop: 841  BOSTON / SHUMWAY
+    stop: 851  Boston/Lloyd
+    stop: 852  Boston/Brandon
+    stop: 855  BOSTON / WALLACE
+    stop: 858  BOSTON / GLENWOOD
+    stop: 860  BOSTON / GLENWOOD
+    stop: 866  Springfield Walmart
+    stop: 869  BOSTON / LAWNWOOD
+    stop: 871  BOSTON / LAWNWOOD
+    stop: 886  BOSTON / ARNOLD
+    stop: 887  BOSTON / STUART
+    stop: 938  BOSTON / MORTON
+    stop: 940  BOSTON / MORTON
+    stop: 956  BOSTON / PHELAND
+    stop: 961  Boston/Seymour
+    stop: 962  BOSTON / WILTON
+    stop: 969  BOSTON / BARBER
+    stop: 974  BOSTON / DENVER
+    stop: 975  BOSTON / DENVER
+    stop: 982  BOSTON / COLEMAN
+    stop: 989  BOSTON / PRESTON
+    stop: 990  BOSTON / AMBROSE
+    stop: 995  BOSTON / AMBROSE
+    stop: 999  BOSTON / AMBROSE
+    stop: 1012  STATE / LOIS
+    stop: 1015  STATE / TILTON
+    stop: 1028  STATE / IVANHOE
+    stop: 1029  STATE / IVANHOE
+    stop: 1037  INDEPENDENCE HOUSE PARKING LOT / INDEPEN
+    stop: 1040  STATE / EDGEMONT
+    stop: 1054  STATE / HILLMONT
+    stop: 1061  Kindred Hospital
+    stop: 1075  STATE / CLARENCE
+    stop: 1079  STATE / BLUNT PARK
+    stop: 1084  BLUNT PARK / STATE
+    stop: 1101  STATE / UNNAMED STREET
+    stop: 1107  Putnam High School
+    stop: 1121  Mass Mutual
+    stop: 1126  STATE / UNNAMED STREET
+    stop: 1147  Sci Tech High School
+    stop: 1176  STATE / BERLIN
+    stop: 1194  STATE / DEARBORN
+    stop: 1201  STATE / CORTLAND
+    stop: 1207  STATE / DRESDEN
+    stop: 1221  State/Maynard
+    stop: 1238  STATE / HOMER
+    stop: 1253  American International College
+    stop: 1263  American International College
+    stop: 1273  MLK Community Center (Inbound)
+    stop: 1279  STATE / ANDREW
+    stop: 1281  MLK Community Cener
+    stop: 1299  State / Hayden
+    stop: 1309  Mason Square
+    stop: 1323  Mason Square (Inbound)
+    stop: 1327  Mason Square
+    stop: 1328  STATE/THOMPSON
+    stop: 1332  STATE/HANCOCK
+    stop: 1339  State/Stebbins
+    stop: 1340  STATE / ORLEANS
+    stop: 1341  STATE / ORLEANS
+    stop: 1343  STATE / OAK
+    stop: 1350  STATE / STATE
+    stop: 1358  STATE / WALNUT
+    stop: 1387  Commerce High School
+    stop: 1413  Verizon Building
+    stop: 1415  STATE / WALNUT
+    stop: 1445  State/Spring
+    stop: 1450  Springfield Bus Terminal
+    stop: 1454  State/School
+    stop: 1467  Main/Worthington
+    stop: 1474  MAIN / BRIDGE
+    stop: 1475  Main and Harrison
+    stop: 1479  STATE / CHESTNUT
+    stop: 1481  Main/Harrison
+    stop: 1923  This stop is no longer used
+    stop: 1924  Main/Hampden
+    stop: 6009  Mass Mutual Center
+    stop: 6016  CHESTNUT / EDWARDS
+    stop: 6026  STATE / PLEASANT
+    stop: 6030  Springfield Library
+    stop: 6289  MAIN / BRIDGE
+    stop: 6400  BOSTON / LUCERNE
+    stop: 6410  STATE / MASON
+    stop: 8860  Price Rite Boston Rd.
+    stop: 9013  Liberty St. Gas Station
+    stop: 9014  Main/Federal
+    stop: 9040  Harrison  St. Outbound
+    stop: 9140  Commerce High School (opposite)
+    stop: 9141  Central High School
+    stop: 9142  Central High School (Roosevelt St.)
+    stop: 9150  State and Benton
+    stop: 9151  Putnam High School(Blunt Park Rd.)
+    stop: 9310  State and Main(Tripper Timepoint)
+    stop: 9311  Springfield Library
+    stop: 9316  Court Square  Main and State
+    stop: 9318  State and Dwight
+    stop: 9320  State and St. James(Tripper Timepoint)
+    stop: 9326  State and Dwight(Tripper Timepoint)
+Route: BtrS
+    stop: 275  Wing Medical Center
+    stop: 279  Stop and Shop
+    stop: 281  Belchertown Wellness Center
+    stop: 289  Mill Hollow
+    stop: 294  Belchertown Center 2
+    stop: 299  Everett Acres
+    stop: 305  Senior Center
+    stop: 343  Pine Valley Club House
+    stop: 346  Walmart  Ware
+    stop: 9064  Big Y  Phillips Plaza  Ware
+    stop: 9079  CVS  Belchertown
+Route: G1
+    stop: 585  Big Y Memorial Dr. Chicopee
+    stop: 588  Chicopee Marketplace
+    stop: 600  Memorial/Ramp 90
+    stop: 604  Memorial/(Park Inn 628)
+    stop: 623  MEMORIAL / FULLER
+    stop: 629  Memorial/Cecile
+    stop: 648  MONTGOMERY / MEMORIAL
+    stop: 663  MAIN / GROVE
+    stop: 666  Court House Plaza
+    stop: 679  GROVE / COURT
+    stop: 681  GROVE / COURT
+    stop: 697  GROVE / OAK
+    stop: 703  GROVE / FRONT
+    stop: 714  Front/Ellerton(opposite)
+    stop: 715  FRONT / ELLERTON
+    stop: 726  Front/Wheatland(opposite)
+    stop: 727  Front/Springfield
+    stop: 731  Chicopee Center
+    stop: 733  FRONT / GRAPE
+    stop: 734  FRONT / QUARRY
+    stop: 735  Front/Orchard(opposite)
+    stop: 737  Center St. and Exchange
+    stop: 738  Front/Cyman
+    stop: 739  Front/Academy(opposite)
+    stop: 746  CENTER / SCHOOL
+    stop: 756  CABOT / PARK
+    stop: 761  Center/Union
+    stop: 773  CENTER / SOUTH
+    stop: 781  Center/Hampden
+    stop: 846  Center/Rt 91
+    stop: 849  Center/Rt. 91
+    stop: 898  Center St. (opposite 628)
+    stop: 899  Center/Health clinic
+    stop: 927  Center/Plainfield(opposite)
+    stop: 932  CENTER / PLAINFIELD
+    stop: 965  Main/Main
+    stop: 967  3550 Main St
+    stop: 978  3550 Main Street
+    stop: 979  Baystate Parking Lot N
+    stop: 994  3350 Main St
+    stop: 1007  3300 Main Street
+    stop: 1014  Main/Noble
+    stop: 1066  Main/Cumberland
+    stop: 1068  Main/Cumberland(opposite)
+    stop: 1081  CHESTNUT / PRATT
+    stop: 1093  Main/Portland
+    stop: 1097  Main/Waverly
+    stop: 1115  Main/Medford
+    stop: 1127  Main / Hooker St.
+    stop: 1128  Main / E. Hooker St.
+    stop: 1157  MAIN / HUNTINGTON
+    stop: 1187  MAIN / SHELDON
+    stop: 1200  MAIN / JEFFERSON
+    stop: 1233  MAIN / BANCROFT
+    stop: 1267  MAIN / OSGOOD
+    stop: 1286  MAIN / MORGAN
+    stop: 1287  CHESTNUT / STAFFORD
+    stop: 1296  Main/Church
+    stop: 1298  MAIN / MORGAN
+    stop: 1334  Main/Carew
+    stop: 1335  Main / St. George (1)
+    stop: 1450  Springfield Bus Terminal
+    stop: 1467  Main/Worthington
+    stop: 1474  MAIN / BRIDGE
+    stop: 1481  Main/Harrison
+    stop: 1495  Court Square
+    stop: 1503  Main/Stockbridge
+    stop: 1505  Main/Howard
+    stop: 1516  MAIN / UNION
+    stop: 1529  MAIN / WILLIAM
+    stop: 1530  MAIN / WILLIAM
+    stop: 1542  MAIN / MARGARET
+    stop: 1545  MAIN / MORRIS
+    stop: 1562  Main/Loring
+    stop: 1565  MAIN / ADAMS
+    stop: 1566  Riverbend Medical Center
+    stop: 1567  Big Y at Allen and Cooley Sts.
+    stop: 1570  Wingate
+    stop: 1577  Bicentennial Hwy. (1)
+    stop: 1582  Main/Montpelier
+    stop: 1585  MAIN / GARDNER
+    stop: 1588  Allen/Bicentennial
+    stop: 1589  Allen/Bicentennial (inbound)
+    stop: 1591  ALLEN / TALMADGE
+    stop: 1593  Allen/Bridlepath
+    stop: 1594  Allen/Wilshire (inbound)
+    stop: 1597  ALLEN / WILSHIRE
+    stop: 1600  Main/Marble
+    stop: 1605  MAIN / BROAD
+    stop: 1612  Allen/Allen Park (inbound)
+    stop: 1619  ALLEN / ALLEN PARK
+    stop: 1622  SUMNER / BAIRDCREST
+    stop: 1633  ALLEN / CORCORAN
+    stop: 1644  SUMNER / HUDSON
+    stop: 1649  ALLEN / HARBOUR
+    stop: 1652  Main/Acushnet (opposite)
+    stop: 1654  SUMNER / PINECREST
+    stop: 1655  Main/Acushnet
+    stop: 1660  SUMNER / EMERSON
+    stop: 1661  Five Town Plaza
+    stop: 1662  Stop and Shop at Allen and Cooley Sts.
+    stop: 1663  ALLEN / MANOR
+    stop: 1664  Sumner/Chalmers
+    stop: 1670  Mill and Locust (N)
+    stop: 1671  Mill and Locust
+    stop: 1672  Sumner/Allen
+    stop: 1675  ALLEN / ACCESS
+    stop: 1678  SUMNER / GARLAND
+    stop: 1682  Roosevelt/Sumner
+    stop: 1686  SUMNER / ELOISE
+    stop: 1688  BELMONT / LEYFRED
+    stop: 1690  SUMNER / EDDYWOOD
+    stop: 1691  SUMNER / HOWES
+    stop: 1692  FORT PLEASANT / BLAKE HILL
+    stop: 1694  sumner/Rencelau
+    stop: 1695  BELMONT / WOODSIDE
+    stop: 1697  SUMNER / CASTLE
+    stop: 1699  FORT PLEASANT / BLAKE HILL
+    stop: 1702  Sumner/Perkins
+    stop: 1703  BELMONT / BELLEVUE
+    stop: 1705  FORT PLEASANT / LEETE
+    stop: 1706  SUMNER / ECKINGTON
+    stop: 1708  Fort Pleasant/Forrest Park Ave.
+    stop: 1710  Belmont/Mountainview
+    stop: 1712  SUMNER / RITTENHOUSE
+    stop: 1715  Sumner/White
+    stop: 1716  Sumner/Irvington
+    stop: 1717  Belmont/Litchfield
+    stop: 1722  Sumner/Herman
+    stop: 1725  Sumner / Bryant
+    stop: 1726  SUMNER / POMONA
+    stop: 1728  FORT PLEASANT / CHASE
+    stop: 1729  Fort Pleasant/Chase
+    stop: 1730  Belmont/Beaumont
+    stop: 1731  Sumner/Sorrento
+    stop: 1733  SUMNER / ORMOND
+    stop: 1734  Cooley/Caitlin(opposite)
+    stop: 1738  SUMNER / DICKINSON
+    stop: 1741  STATE HWY 83 / BELMONT
+    stop: 1744  Canon Circle #1
+    stop: 1745  Canon Circle #3
+    stop: 1747  Belmont/Commonwealth(opposite)
+    stop: 1749  SUMNER / BEAUMONT
+    stop: 1750  BELMONT / ORMOND
+    stop: 1751  SUMNER / PARKWOOD
+    stop: 1753  Belmont/Daytona
+    stop: 1754  SUMNER / OAKLAND
+    stop: 1755  BELMONT / HOLLYWOOD
+    stop: 1756  Sumner/Oakland
+    stop: 1757  BELMONT / ORLANDO
+    stop: 1758  Sumner/Sumner Terrance
+    stop: 1761  Belmont/Itendale
+    stop: 1763  Belmont/Bryant
+    stop: 1764  FORT PLEASANT / WARNER
+    stop: 1765  Forrest Park Entrance
+    stop: 1766  SUMNER / GREENLEAF
+    stop: 1768  Belmont/Longfellow
+    stop: 1769  Belmont/Whittier (opposite)
+    stop: 1770  SUMNER / FOREST PARK
+    stop: 1774  Sumner/Randolph
+    stop: 1775  Belmont/Fountain(opposite)
+    stop: 1776  Sumner/Firglade
+    stop: 1777  BELMONT / FOUNTAIN
+    stop: 1779  FORT PLEASANT / SUMNER
+    stop: 1780  SUMNER / BEECHWOOD
+    stop: 1905  Main/St. George (2)
+    stop: 1906  Main/Boylston
+    stop: 1907  Main/Patton
+    stop: 1908  MAIN / EMERY
+    stop: 1909  Springfield Post Office
+    stop: 1910  MAIN / CONGRESS
+    stop: 1923  This stop is no longer used
+    stop: 1924  Main/Hampden
+    stop: 6029  Mass Mutual Center
+    stop: 6031  Cooley/Caitlin
+    stop: 6032  FRONT / GRAPE
+    stop: 6246  MAIN / STOCKBRIDGE
+    stop: 6289  MAIN / BRIDGE
+    stop: 6324  MAIN / HOLLAND
+    stop: 6350  FRONT / ORCHARD
+    stop: 6351  FRONT / CYMAN
+    stop: 6352  FRONT / ACADEMY
+    stop: 6354  Walmart Chicopee
+    stop: 6355  FRONT / GROVE
+    stop: 6371  ALLEN / WACHUSETT
+    stop: 6372  COOLEY / UNNAMED STREET
+    stop: 6373  SUMNER / WASHINGTON
+    stop: 6374  FORT PLEASANT / WARNER
+    stop: 6375  MAIN / OSGOOD
+    stop: 6376  MAIN / BANCROFT
+    stop: 6504  Chicopee High School
+    stop: 9000  Canon Circle #2
+    stop: 9002  Liberty and Main #2
+    stop: 9006  Sumner / Lenox
+    stop: 9013  Liberty St. Gas Station
+    stop: 9022  Boland Way
+    stop: 9143  Main and Walter
+    stop: 9292  Gus and Paul's(Sumner)
+    stop: 9312  Carew and Main(Tripper Timepoint)
+Route: G19
+    stop: 365  NEW LUDLOW / LORETTA
+    stop: 383  BRITTON / HUDSON
+    stop: 401  BETTER / BETTER
+    stop: 432  MEMORIAL / PROSPECT
+    stop: 480  Fleming Industries
+    stop: 482  MEMORIAL / PARKING LOT
+    stop: 486  MEMORIAL / CONNECTING ROAD
+    stop: 506  MEMORIAL / JAMROG
+    stop: 507  MEMORIAL / JAMROG
+    stop: 523  MEMORIAL / PONDVIEW
+    stop: 531  MEMORIAL / PENDLETON
+    stop: 532  WESTOVER INDUSTRIAL PARK DRIVE / DULONG
+    stop: 534  MEMORIAL / PENDLETON
+    stop: 537  MEMORIAL / LYNN
+    stop: 570  Stop and Shop
+    stop: 585  Big Y Memorial Dr. Chicopee
+    stop: 588  Chicopee Marketplace
+    stop: 600  Memorial/Ramp 90
+    stop: 604  Memorial/(Park Inn 628)
+    stop: 623  MEMORIAL / FULLER
+    stop: 629  Memorial/Cecile
+    stop: 645  MONTGOMERY / RAMP
+    stop: 664  MAIN / CANTERBURY
+    stop: 667  MAIN / CANTERBURY
+    stop: 673  BELCHER / MAPLE
+    stop: 687  BROADWAY / RAMP
+    stop: 692  BROADWAY / PAINE
+    stop: 702  BROADWAY / SUMMER
+    stop: 706  BROADWAY / PINE
+    stop: 709  BROADWAY / PINE
+    stop: 720  BROADWAY / MADISON
+    stop: 725  BROADWAY / MONROE
+    stop: 748  BROADWAY / THEODORE
+    stop: 749  BROADWAY / THEODORE
+    stop: 775  BROADWAY / WESTERN
+    stop: 776  BROADWAY / WESTERN
+    stop: 790  BROADWAY / WILLIAM
+    stop: 798  BROADWAY / ABBEY MEMORIAL
+    stop: 848  Stop and Shop
+    stop: 9201  Chicopee Marketplace
+    stop: 9904  Lonczak and Padgette
+Route: G2
+    stop: 710  NORTH EAST UTLITY DRIVE / NORTH EAST UTL
+    stop: 717  CADWELL / UNNAMED STREET
+    stop: 743  CADWELL / WATLING
+    stop: 763  ROBBINS / BALDARELLI
+    stop: 767  ROBBINS / BALDARELLI
+    stop: 774  COTTAGE / ROBBINS
+    stop: 777  COTTAGE / TURNBULL
+    stop: 778  Industry/Cottage (1)
+    stop: 783  COTTAGE / PROGRESS
+    stop: 784  Cottage/Progress(opposite)
+    stop: 786  PAGE / SARGON
+    stop: 788  Page/Sargon (opposite)
+    stop: 792  East and Page
+    stop: 794  Page/Prentice(opposite)
+    stop: 795  Industry/Cottage (2)
+    stop: 800  PAGE / STEVENS
+    stop: 802  PAGE / OSBORNE
+    stop: 803  INDUSTRY / MEMORIAL
+    stop: 812  Page/Windemere
+    stop: 817  PAGE / FRESNO
+    stop: 820  SAINT JAMES / FERNWOLD
+    stop: 832  Page/Haumont
+    stop: 833  UNNAMED STREET / SAINT JAMES
+    stop: 835  PAGE / SAINT JAMES
+    stop: 843  MEMORIAL / INDUSTRY
+    stop: 848  Stop and Shop
+    stop: 850  Memorial Industrial Park
+    stop: 854  Saint James/Georgetown
+    stop: 856  Saint James/Holy Cross(opposite)
+    stop: 857  SAINT JAMES / CAREW
+    stop: 863  SAINT JAMES / HOLY CROSS
+    stop: 872  SAINT JAMES / ST JAMES
+    stop: 879  SAINT JAMES / ST JAMES
+    stop: 885  Carew/Shaine
+    stop: 890  CAREW / SHERBROOKE
+    stop: 895  SAINT JAMES / SAN MIGUEL
+    stop: 902  Carew/Upland
+    stop: 906  CAREW / UPLAND
+    stop: 912  SAINT JAMES / CORONA
+    stop: 915  CAREW / PIEDMONT
+    stop: 920  Carew/Savoy
+    stop: 936  CAREW / SUZANNE
+    stop: 941  CAREW / EDDY
+    stop: 948  Carew/Judson
+    stop: 950  CAREW / MIDDLE
+    stop: 958  CAREW / NOTTINGHAM
+    stop: 968  CAREW / LIBERTY
+    stop: 972  CAREW / FREEMAN
+    stop: 980  CAREW / LIBERTY
+    stop: 984  CAREW / LIBCAR
+    stop: 986  CAREW / PENACOOK
+    stop: 1003  CAREW / VAN HORN
+    stop: 1008  Carew/Van Horn(opposite)
+    stop: 1022  Carew/Armory
+    stop: 1023  CAREW / ARMORY
+    stop: 1042  Carew/Nye
+    stop: 1043  Carew/Parkside
+    stop: 1063  CAREW / MELHA
+    stop: 1064  CAREW / MELHA
+    stop: 1103  Carew/Algonquin(opposite)
+    stop: 1105  Carew/Algonquin
+    stop: 1127  Main / Hooker St.
+    stop: 1137  Carew/Cass
+    stop: 1143  CAREW / CASS
+    stop: 1157  MAIN / HUNTINGTON
+    stop: 1161  Mercy Hospital
+    stop: 1187  MAIN / SHELDON
+    stop: 1197  CAREW / MASSASOIT
+    stop: 1203  Carew/Massasoit(opposite)
+    stop: 1222  Carew/Chestnut
+    stop: 1225  Carew/Chestnut
+    stop: 1233  MAIN / BANCROFT
+    stop: 1267  MAIN / OSGOOD
+    stop: 1270  Carew/Dwight (1)
+    stop: 1274  Carew/Dwight (3)
+    stop: 1282  Carew/Dwight (2)
+    stop: 1290  Carew/Dwight (2)
+    stop: 1298  MAIN / MORGAN
+    stop: 1301  Carew/Dwight (1)
+    stop: 1334  Main/Carew
+    stop: 1335  Main / St. George (1)
+    stop: 1450  Springfield Bus Terminal
+    stop: 1461  No longer used  Use stop at Main and Bridge
+    stop: 1467  Main/Worthington
+    stop: 1474  MAIN / BRIDGE
+    stop: 1481  Main/Harrison
+    stop: 1495  Court Square
+    stop: 1503  Main/Stockbridge
+    stop: 1505  Main/Howard
+    stop: 1516  MAIN / UNION
+    stop: 1529  MAIN / WILLIAM
+    stop: 1530  MAIN / WILLIAM
+    stop: 1542  MAIN / MARGARET
+    stop: 1545  MAIN / MORRIS
+    stop: 1562  Main/Loring
+    stop: 1565  MAIN / ADAMS
+    stop: 1582  Main/Montpelier
+    stop: 1585  MAIN / GARDNER
+    stop: 1600  Main/Marble
+    stop: 1605  MAIN / BROAD
+    stop: 1652  Main/Acushnet (opposite)
+    stop: 1655  Main/Acushnet
+    stop: 1670  Mill and Locust (N)
+    stop: 1671  Mill and Locust
+    stop: 1687  Belmont/Leyfred
+    stop: 1688  BELMONT / LEYFRED
+    stop: 1695  BELMONT / WOODSIDE
+    stop: 1698  BELMONT / WOODSIDE
+    stop: 1700  BELMONT / BELLEVUE
+    stop: 1703  BELMONT / BELLEVUE
+    stop: 1710  Belmont/Mountainview
+    stop: 1711  Belmont/Keith
+    stop: 1714  BELMONT / HALL
+    stop: 1717  Belmont/Litchfield
+    stop: 1718  Belmont/Oakland
+    stop: 1727  BELMONT / BEAUMONT
+    stop: 1730  Belmont/Beaumont
+    stop: 1737  BELMONT / RAMP
+    stop: 1741  STATE HWY 83 / BELMONT
+    stop: 1747  Belmont/Commonwealth(opposite)
+    stop: 1750  BELMONT / ORMOND
+    stop: 1753  Belmont/Daytona
+    stop: 1755  BELMONT / HOLLYWOOD
+    stop: 1757  BELMONT / ORLANDO
+    stop: 1761  Belmont/Itendale
+    stop: 1762  DICKINSON / TRENTON
+    stop: 1763  Belmont/Bryant
+    stop: 1768  Belmont/Longfellow
+    stop: 1769  Belmont/Whittier (opposite)
+    stop: 1773  DICKINSON / TRAFTON
+    stop: 1775  Belmont/Fountain(opposite)
+    stop: 1777  BELMONT / FOUNTAIN
+    stop: 1785  White/Eleanor
+    stop: 1788  DICKINSON / WASHINGTON
+    stop: 1789  White/Manitoba
+    stop: 1791  White/Sunapee
+    stop: 1793  DWIGHT / WHITE
+    stop: 1795  DWIGHT / STANTON
+    stop: 1797  N. Main/Rosemont
+    stop: 1798  Main/Van Dyke
+    stop: 1799  DICKINSON / OLMSTED
+    stop: 1800  MAIN / DORSET
+    stop: 1802  Main/Gerrard
+    stop: 1805  Big Y East Longmeadow
+    stop: 1807  Main/Lombard(opposite)
+    stop: 1808  MAIN / LOMBARD
+    stop: 1810  DWIGHT / IRVING
+    stop: 1811  DICKINSON / COPELAND
+    stop: 1812  STOP AND SHOP DRIVE (EAST LONGMEADOW N. MAIN)
+    stop: 1814  DWIGHT / HARTWICK
+    stop: 1816  DWIGHT / HARTWICK
+    stop: 1825  DWIGHT / FENIMORE
+    stop: 1826  Dwight/Fenimore
+    stop: 1832  DWIGHT / ANGLESEA
+    stop: 1834  DWIGHT / CHANNING
+    stop: 1838  DWIGHT / HARPER
+    stop: 1841  DWIGHT / COCHRANE
+    stop: 1856  DWIGHT / PUTTING GREEN
+    stop: 1857  Dwight/Putting Green (opposite)
+    stop: 1882  East Village Place
+    stop: 1884  BENTON / UNNAMED STREET
+    stop: 1905  Main/St. George (2)
+    stop: 1906  Main/Boylston
+    stop: 1907  Main/Patton
+    stop: 1908  MAIN / EMERY
+    stop: 1909  Springfield Post Office
+    stop: 1910  MAIN / CONGRESS
+    stop: 1923  This stop is no longer used
+    stop: 1924  Main/Hampden
+    stop: 6008  East Longmeadow Industrial Park (Flag Stop)
+    stop: 6029  Mass Mutual Center
+    stop: 6289  MAIN / BRIDGE
+    stop: 6301  AIC Career Learning Center
+    stop: 6302  Page / Robbins
+    stop: 6303  Page / Oakdale
+    stop: 6304  Page / 1st
+    stop: 6305  Brookdale / Unnamed St
+    stop: 6306  Brookdale / Cottage
+    stop: 6307  Cottage / Carando
+    stop: 6308  Cottage / Industry
+    stop: 6309  Carew / Detroit
+    stop: 6310  Carew / Linnell
+    stop: 6311  Carew / Anne
+    stop: 6312  Carew / Davis
+    stop: 6313  Carew / Windemere
+    stop: 6314  Carew / Edendale
+    stop: 6315  Carew / Prentice
+    stop: 6316  PAGE / SAINT JAMES
+    stop: 6317  PAGE / SAINT JAMES
+    stop: 6318  PAGE / GUION
+    stop: 6319  PAGE / HENDEE
+    stop: 6320  PAGE / GLADSWORTH
+    stop: 6321  PAGE / SAINT JAMES
+    stop: 6322  SAINT JAMES / STUYVESANT
+    stop: 6323  SAINT JAMES / CORONA
+    stop: 9048  Longmeadow/Springfield City Line Dwight St
+    stop: 9068  East and Page Courtesy Stop
+    stop: 9250  Dwight and Converse
+    stop: 9310  State and Main(Tripper Timepoint)
+    stop: 9312  Carew and Main(Tripper Timepoint)
+    stop: 9313  St. James and Tapley(Tripper Timepoint)
+    stop: 9314  Carew and Armory(Tripper Timepoint)
+    stop: 9315  Armory and Carew(Tripper Timepoint)
+    stop: 9323  Carew and Main(Tripper Timepoint)
+    stop: 9324  Carew and Chestnut
+    stop: 9328  Tapley and St. James(Tripper Timepoint)
+Route: G3
+    stop: 663  MAIN / GROVE
+    stop: 664  MAIN / CANTERBURY
+    stop: 673  BELCHER / MAPLE
+    stop: 687  BROADWAY / RAMP
+    stop: 692  BROADWAY / PAINE
+    stop: 702  BROADWAY / SUMMER
+    stop: 706  BROADWAY / PINE
+    stop: 709  BROADWAY / PINE
+    stop: 720  BROADWAY / MADISON
+    stop: 725  BROADWAY / MONROE
+    stop: 748  BROADWAY / THEODORE
+    stop: 749  BROADWAY / THEODORE
+    stop: 775  BROADWAY / WESTERN
+    stop: 776  BROADWAY / WESTERN
+    stop: 790  BROADWAY / WILLIAM
+    stop: 798  BROADWAY / ABBEY MEMORIAL
+    stop: 830  LIBERTY / UNNAMED STREET
+    stop: 842  SPRINGFIELD PLAZA DRIVE / PARKING LOT
+    stop: 848  Stop and Shop
+    stop: 892  Liberty/Lynwood
+    stop: 907  LIBERTY / EDGAR
+    stop: 947  LIBERTY / ROY
+    stop: 960  LIBERTY / LANGDON
+    stop: 976  LIBERTY / CAREW
+    stop: 985  LIBERTY / CAREW
+    stop: 1005  LIBERTY / CLEVELAND
+    stop: 1013  LIBERTY / CLEVELAND
+    stop: 1031  LIBERTY / PHOENIX
+    stop: 1139  LIBERTY / UNKNOWN
+    stop: 1149  LIBERTY / GENESEE
+    stop: 1304  MAGAZINE / BOWDOIN
+    stop: 1325  MAGAZINE / LINCOLN
+    stop: 1328  STATE/THOMPSON
+    stop: 1332  STATE/HANCOCK
+    stop: 1338  HANCOCK / STATE
+    stop: 1339  State/Stebbins
+    stop: 1340  STATE / ORLEANS
+    stop: 1341  STATE / ORLEANS
+    stop: 1343  STATE / OAK
+    stop: 1350  STATE / STATE
+    stop: 1351  HANCOCK / MONROE
+    stop: 1358  STATE / WALNUT
+    stop: 1359  WESTFORD / MIDDLESEX
+    stop: 1360  Norfolk/ Westford Circle
+    stop: 1361  WESTFORD / MIDDLESEX
+    stop: 1363  WESTFORD / ALBEMARLE
+    stop: 1365  WESTFORD / BRADDOCK
+    stop: 1366  WESTFORD / GUNN
+    stop: 1369  WESTFORD / MASSACHUSETTS
+    stop: 1372  HANCOCK / QUINCY
+    stop: 1375  WESTFORD / MASSACHUSETTS
+    stop: 1377  WALNUT / CHARTER
+    stop: 1381  WALNUT / CHARTER
+    stop: 1386  WESTFORD / GUNN
+    stop: 1387  Commerce High School
+    stop: 1400  MIDDLESEX / BRISTOL
+    stop: 1401  WALNUT / UNION
+    stop: 1402  HANCOCK / TYLER
+    stop: 1405  WALNUT / UNION
+    stop: 1413  Verizon Building
+    stop: 1415  STATE / WALNUT
+    stop: 1417  WESTFORD / KING
+    stop: 1418  WALNUT / OAK
+    stop: 1419  HANCOCK / PENDLETON
+    stop: 1421  KING / WESTFORD
+    stop: 1422  KING / NORTHAMPTON
+    stop: 1423  WALNUT / OAK
+    stop: 1424  KING / WILBRAHAM
+    stop: 1426  KING / WILBRAHAM
+    stop: 1429  KING / LOGAN
+    stop: 1434  KING / LOGAN
+    stop: 1440  KING / EASTERN
+    stop: 1445  State/Spring
+    stop: 1446  KING / MERRICK
+    stop: 1449  KING / MERRICK
+    stop: 1450  Springfield Bus Terminal
+    stop: 1451  KING / NELSON
+    stop: 1452  KING / NELSON
+    stop: 1454  State/School
+    stop: 1455  WALNUT / KING
+    stop: 1467  Main/Worthington
+    stop: 1470  WALNUT / JAMES
+    stop: 1474  MAIN / BRIDGE
+    stop: 1475  Main and Harrison
+    stop: 1478  WALNUT / LEBANON
+    stop: 1479  STATE / CHESTNUT
+    stop: 1480  WALNUT / LEBANON
+    stop: 1485  ALDEN / SHEFFIELD
+    stop: 1489  WILBRAHAM / ALDEN
+    stop: 1491  Alden/Eastern (2)
+    stop: 1492  WALNUT / BRIGHAM
+    stop: 1493  Alden/Eastern (1)
+    stop: 1496  WALNUT / ALDEN
+    stop: 1497  ALDEN / HANCOCK
+    stop: 1499  WALNUT / ASHLEY
+    stop: 1507  WALNUT / CROSBY
+    stop: 1517  HICKORY / CONKLIN
+    stop: 1527  HICKORY / EASTERN
+    stop: 1532  WALNUT / HICKORY
+    stop: 1535  HICKORY / WALNUT
+    stop: 1911  LIBERTY / DWIGHT
+    stop: 1912  LIBERTY / DWIGHT
+    stop: 1913  LIBERTY / DWIGHT
+    stop: 1914  LIBERTY / DWIGHT
+    stop: 1917  LIBERTY / CHESTNUT
+    stop: 1918  LIBERTY / CHESTNUT
+    stop: 1919  FRANKLIN / LIBERTY
+    stop: 1924  Main/Hampden
+    stop: 6001  LIBERTY / UNNAMED STREET
+    stop: 6002  LIBERTY / ROY
+    stop: 6003  LIBERTY / COLUMBIA
+    stop: 6004  LIBERTY / MURRAY HILL
+    stop: 6005  LIBERTY / CASS
+    stop: 6006  LIBERTY / FRANKLIN
+    stop: 6007  FRANKLIN / SAAB
+    stop: 6009  Mass Mutual Center
+    stop: 6011  HANCOCK / UNION
+    stop: 6012  KING / PRINCE
+    stop: 6013  KING / EASTERN
+    stop: 6015  QUEEN / WALNUT
+    stop: 6016  CHESTNUT / EDWARDS
+    stop: 6017  LIBERTY / FRANKLIN
+    stop: 6018  LIBERTY / CASS
+    stop: 6019  LIBERTY / WEBSTER
+    stop: 6020  LIBERTY / COLUMBIA
+    stop: 6021  LIBERTY / GENESEE
+    stop: 6022  LIBERTY / HOME
+    stop: 6023  LIBERTY / LYNWOOD
+    stop: 6024  LIBERTY / UNNAMED STREET
+    stop: 6025  ALDEN / WILBRAHAM
+    stop: 6026  STATE / PLEASANT
+    stop: 6030  Springfield Library
+    stop: 6289  MAIN / BRIDGE
+    stop: 6633  Court St. (Chicopee Falls)
+    stop: 9005  SAAB Court
+    stop: 9014  Main/Federal
+    stop: 9040  Harrison  St. Outbound
+    stop: 9140  Commerce High School (opposite)
+    stop: 9191  MCDI
+    stop: 9311  Springfield Library
+    stop: 9315  Armory and Carew(Tripper Timepoint)
+    stop: 9320  State and St. James(Tripper Timepoint)
+Route: G5
+    stop: 1450  Springfield Bus Terminal
+    stop: 1467  Main/Worthington
+    stop: 1474  MAIN / BRIDGE
+    stop: 1481  Main/Harrison
+    stop: 1495  Court Square
+    stop: 1503  Main/Stockbridge
+    stop: 1505  Main/Howard
+    stop: 1516  MAIN / UNION
+    stop: 1529  MAIN / WILLIAM
+    stop: 1530  MAIN / WILLIAM
+    stop: 1542  MAIN / MARGARET
+    stop: 1545  MAIN / MORRIS
+    stop: 1562  Main/Loring
+    stop: 1565  MAIN / ADAMS
+    stop: 1582  Main/Montpelier
+    stop: 1585  MAIN / GARDNER
+    stop: 1600  Main/Marble
+    stop: 1605  MAIN / BROAD
+    stop: 1614  Dickinson and Locust
+    stop: 1615  MILL / LOCUST
+    stop: 1627  LOCUST / DARWELL
+    stop: 1635  LOCUST / DARWELL
+    stop: 1650  DICKINSON / WIGWAM
+    stop: 1651  DICKINSON / SACHEM
+    stop: 1652  Main/Acushnet (opposite)
+    stop: 1653  LOCUST / WOODSIDE
+    stop: 1655  Main/Acushnet
+    stop: 1659  LOCUST / WOODSIDE
+    stop: 1665  LOCUST / WOODSIDE
+    stop: 1667  LOCUST / WOODSIDE
+    stop: 1670  Mill and Locust (N)
+    stop: 1671  Mill and Locust
+    stop: 1674  DICKINSON / EUCLID
+    stop: 1676  DICKINSON / EUCLID
+    stop: 1681  DICKINSON / HALL
+    stop: 1683  DICKINSON / HALL
+    stop: 1689  DICKINSON / OAKLAND
+    stop: 1696  DICKINSON / KENWOOD
+    stop: 1707  DICKINSON / ALDERMAN
+    stop: 1709  DICKINSON / ALDERMAN
+    stop: 1719  DICKINSON / BURLINGTON
+    stop: 1720  DICKINSON / BURLINGTON
+    stop: 1733  SUMNER / ORMOND
+    stop: 1735  DICKINSON / SUMNER
+    stop: 1736  DICKINSON / SUMNER
+    stop: 1737  BELMONT / RAMP
+    stop: 1746  DICKINSON / SUMNER
+    stop: 1747  Belmont/Commonwealth(opposite)
+    stop: 1760  DICKINSON / TRENTON
+    stop: 1762  DICKINSON / TRENTON
+    stop: 1773  DICKINSON / TRAFTON
+    stop: 1778  DICKINSON / TRAFTON
+    stop: 1786  DICKINSON / WASHINGTON
+    stop: 1788  DICKINSON / WASHINGTON
+    stop: 1799  DICKINSON / OLMSTED
+    stop: 1803  DICKINSON / OLMSTED
+    stop: 1811  DICKINSON / COPELAND
+    stop: 1813  DICKINSON / TEXEL
+    stop: 1819  DICKINSON / ELWOOD
+    stop: 1822  TIFFANY / BREMEN
+    stop: 1827  TIFFANY / WEYMOUTH
+    stop: 1836  TIFFANY / BRENTWOOD
+    stop: 1839  TIFFANY / RUBY
+    stop: 1843  TIFFANY / FRANCONIA
+    stop: 1845  JAMESTOWN / DICKINSON
+    stop: 1848  Elks Club
+    stop: 1851  JAMESTOWN / YORKTOWN
+    stop: 1854  TIFFANY / CRESTMONT
+    stop: 1858  WILLIAMSBURG / JAMESTOWN
+    stop: 1859  Longmeadow/Englewood(Flag stop - signal driver)
+    stop: 1862  CONVERSE / RUTH HOUSE
+    stop: 1865  Jewish Geriatric Services
+    stop: 1866  Jewish Geriatric Services
+    stop: 1867  Longmeadow/Warren (Flag stop - signal driver)
+    stop: 1869  CONVERSE / TABOR
+    stop: 1871  Longmeadow/Longmeadow (Flag stop - signal driver)
+    stop: 1875  Longmeadow/Chandler (Flag stop - signal driver)
+    stop: 1876  Longmeadow/Emerson (Flag stop - signal driver)
+    stop: 1877  Longmeadow/Hopkins (Flag stop - signal driver)
+    stop: 1878  Longmeadow/Greenacre (Flag stop - signal driver)
+    stop: 1880  Longmeadow/York (Flag stop - signal driver)
+    stop: 1883  Longmeadow/Longmeadow (Flag stop - signal driver)
+    stop: 1886  Longmeadow/Wms (S) (Flag stop - signal driver)
+    stop: 1887  Longmeadow/Chandler (Flag stop - signal driver)
+    stop: 1889  Longmeadow/Birnie (Flag stop - signal driver)
+    stop: 1890  Longmeadow/Crescent (Flag stop - signal driver)
+    stop: 1892  Longmeadow/Longview (Flag stop - signal driver)
+    stop: 1893  Longmeadow/Summit(Flag stop - signal driver)
+    stop: 1894  Longmeadow/Summit (Flag stop - signal driver)
+    stop: 1895  Longmeadow/Jonquil (Flag stop - signal driver)
+    stop: 1896  Longmeadow/Nevins (Flag stop - signal driver)
+    stop: 1897  Longmeadow/Maple (Flag stop - signal driver)
+    stop: 1898  Longmeadow/Nevins (Flag stop - signal driver)
+    stop: 1899  Longmeadow/Homestead (Flag stop - signal driver)
+    stop: 1900  Longmeadow/Lawnwood (Flag stop - signal driver)
+    stop: 1901  Longmeadow/Lawnwood (Flag stop - signal driver)
+    stop: 1902  LONGMEADOW / ENFIELD
+    stop: 1903  Longmeadow/Booth (Flag stop - signal driver)
+    stop: 1924  Main/Hampden
+    stop: 5000  Converse / Highland (FLAG stop- signal the driver)
+    stop: 5001  Converse / Laurel (FLAG stop- signal the driver)
+    stop: 5002  Converse / Rugby (FLAG stop- signal the driver)
+    stop: 5003  Converse / Porter Lake (FLAG stop- signal driver)
+    stop: 5004  Converse / Williamsburg(FLAG stop - signal driver)
+    stop: 6029  Mass Mutual Center
+    stop: 6289  MAIN / BRIDGE
+    stop: 9130  Williams/Longmeadow (Flag stop - signal driver)
+    stop: 9251  Converse and Dwight
+    stop: 10006  Mass Mutual
+Route: G8
+    stop: 1450  Springfield Bus Terminal
+    stop: 1467  Main/Worthington
+    stop: 1474  MAIN / BRIDGE
+    stop: 1481  Main/Harrison
+    stop: 1482  BRANCH / PLUMTREE
+    stop: 1490  BRANCH / TERRACE
+    stop: 1495  Court Square
+    stop: 1503  Main/Stockbridge
+    stop: 1505  Main/Howard
+    stop: 1510  PLUMTREE / GORMAN
+    stop: 1516  MAIN / UNION
+    stop: 1519  TERRACE / PLUMTREE
+    stop: 1523  PLUMTREE / TERRACE
+    stop: 1525  PLUMTREE / CHESTERFIELD
+    stop: 1526  PLUMTREE / CHESTERFIELD
+    stop: 1529  MAIN / WILLIAM
+    stop: 1530  MAIN / WILLIAM
+    stop: 1533  PLUMTREE / CHALMERS
+    stop: 1536  PLUMTREE / CHALMERS
+    stop: 1541  PLUMTREE / ABBOTT
+    stop: 1542  MAIN / MARGARET
+    stop: 1545  MAIN / MORRIS
+    stop: 1550  PLUMTREE / GILLETTE
+    stop: 1553  PLUMTREE / GILLETTE
+    stop: 1556  PLUMTREE / OREGON
+    stop: 1558  PLUMTREE / OREGON
+    stop: 1562  Main/Loring
+    stop: 1563  PLUMTREE / WHITTUM
+    stop: 1564  PLUMTREE / ROOSEVELT
+    stop: 1565  MAIN / ADAMS
+    stop: 1568  PLUMTREE / WHEELER
+    stop: 1569  PLUMTREE / GRANDVIEW
+    stop: 1572  PLUMTREE / EDDYWOOD
+    stop: 1574  PLUMTREE / EDDYWOOD
+    stop: 1582  Main/Montpelier
+    stop: 1583  PLUMTREE / PILGRIM
+    stop: 1585  MAIN / GARDNER
+    stop: 1590  PLUMTREE / MAYFLOWER
+    stop: 1596  PLUMTREE / MAYFLOWER
+    stop: 1598  MILL / MAPLE
+    stop: 1600  Main/Marble
+    stop: 1602  MILL / MAPLE
+    stop: 1603  ORANGE / PALM
+    stop: 1604  ORANGE / PALM
+    stop: 1605  MAIN / BROAD
+    stop: 1607  PLUMTREE / MAYFLOWER
+    stop: 1608  ALLEN / ALBERTA
+    stop: 1609  ALLEN / ALBERTA
+    stop: 1610  ORANGE / CLAREMONT
+    stop: 1611  ORANGE / HANCOCK
+    stop: 1615  MILL / LOCUST
+    stop: 1617  ORANGE / THAYER
+    stop: 1621  ORANGE / THAYER
+    stop: 1623  MILL / RAMP
+    stop: 1624  ORANGE / WAREHAM
+    stop: 1625  ORANGE / WAREHAM
+    stop: 1626  ALLEN / CALIFORNIA
+    stop: 1628  ORANGE / WIGWAM
+    stop: 1630  ORANGE / EARL
+    stop: 1632  ORANGE / WIGWAM
+    stop: 1634  ALLEN / DELL
+    stop: 1636  ORANGE / REVERE
+    stop: 1637  PLUMTREE / PALMYRA
+    stop: 1638  ALLEN / MANDALAY
+    stop: 1639  PLUMTREE / PALMYRA
+    stop: 1640  ORANGE / MALDEN
+    stop: 1641  ORANGE / OAKLAND
+    stop: 1642  ORANGE / EUCLID
+    stop: 1645  ALLEN / WAYNE
+    stop: 1646  ORANGE / EUCLID
+    stop: 1647  ALLEN / WAYNE
+    stop: 1652  Main/Acushnet (opposite)
+    stop: 1655  Main/Acushnet
+    stop: 1656  MILL / PINE
+    stop: 1670  Mill and Locust (N)
+    stop: 1671  Mill and Locust
+    stop: 1673  WHITE / SCOTT
+    stop: 1684  WHITE / STRATFORD
+    stop: 1704  WHITE / KIMBERLY
+    stop: 1721  WHITE / PRISCILLA
+    stop: 1748  WHITE / LONGFELLOW
+    stop: 1771  WHITE / BLAINE
+    stop: 1775  Belmont/Fountain(opposite)
+    stop: 1924  Main/Hampden
+    stop: 6029  Mass Mutual Center
+    stop: 6248  ORANGE / WIGWAM
+    stop: 6249  PLUMTREE / ABBOTT
+    stop: 6289  MAIN / BRIDGE
+Route: NE
+    stop: 261  Academy of Music
+    stop: 282  Post Office  Easthampton
+    stop: 288  CVS  Easthampton
+    stop: 297  Pleasant / Ridgewood
+    stop: 302  Big E / Senior Center
+    stop: 303  Easthampton Town Hall
+    stop: 304  J. Sullivan Housing
+    stop: 316  Sunrise Manor
+    stop: 328  Cliffview Manor
+    stop: 330  DRIVEWAY / MAIN
+    stop: 335  Big Y  Southampton
+    stop: 337  White Brook Middle School
+    stop: 9071  Hendrick and Plain (this is a FLAG stop)
+    stop: 9072  Plain and Strong (this is a FLAG stop)
+    stop: 9074  Park and Bryan (this is a FLAG stop)
+    stop: 9075  Main and Wright (this is a FLAG stop)
+    stop: 9078  Town Lodging House
+Route: P11
+    stop: 425  CHERRY / DALE
+    stop: 491  FROST CIRCLE / COLLEGE
+    stop: 499  HOMESTEAD / LORRAINE
+    stop: 505  HOMESTEAD / SHEEHAN
+    stop: 509  The Kids Place at HCC
+    stop: 520  HOMESTEAD / MEMORIAL
+    stop: 533  HOMESTEAD / RAMP
+    stop: 535  HOMESTEAD / PYNCHON
+    stop: 542  HOMESTEAD / KANE
+    stop: 554  HOMESTEAD / CHARLES HILL
+    stop: 555  HOMESTEAD / UPLAND
+    stop: 584  LOWER WESTFIELD / HOMESTEAD
+    stop: 1316  Plainfield St. across from John
+    stop: 1334  Main/Carew
+    stop: 1467  Main/Worthington
+    stop: 1474  MAIN / BRIDGE
+    stop: 1475  Main and Harrison
+    stop: 1904  LOWER WESTFIELD / UNKNOWN
+    stop: 1907  Main/Patton
+    stop: 1909  Springfield Post Office
+    stop: 1912  LIBERTY / DWIGHT
+    stop: 1921  DWIGHT / WORTHINGTON
+    stop: 6290  Holyoke Community College
+    stop: 6415  CHERRY / MAPLE CREST
+    stop: 6416  HOMESTEAD / MEMORIAL
+    stop: 9013  Liberty St. Gas Station
+    stop: 9205  Main St. Across from SBT
+    stop: 11115  Cherry and Homestead
+Route: P20
+    stop: 387  HIGH / DWIGHT
+    stop: 393  MAPLE / SUFFOLK
+    stop: 398  HIGH / SUFFOLK
+    stop: 408  MAPLE / APPLETON
+    stop: 412  HIGH / APPLETON
+    stop: 414  MAPLE / ESSEX
+    stop: 419  HIGH / ESSEX
+    stop: 429  MAPLE / CABOT
+    stop: 430  HIGH / CABOT
+    stop: 439  MAPLE / HAMPSHIRE
+    stop: 452  HIGH / HAMPSHIRE
+    stop: 453  MAPLE / SARGEANT
+    stop: 455  HIGH / SARGEANT
+    stop: 459  MAPLE / SARGEANT
+    stop: 466  Maple and Jackson
+    stop: 473  HIGH / FRANKLIN
+    stop: 479  HIGH / JACKSON
+    stop: 485  South and Maple
+    stop: 487  SOUTH STREET PLAZA DRIVE / SOUTH
+    stop: 488  SOUTH / SOUTH
+    stop: 490  SOUTH / SOUTH STREET PLAZA DRIVE
+    stop: 494  SOUTH / HARRISON
+    stop: 495  SOUTH / HARRISON
+    stop: 497  SOUTH / CHAPIN
+    stop: 500  NORTHAMPTON / MYRTLE
+    stop: 504  US HWY 5 / NORTHAMPTON
+    stop: 513  NORTHAMPTON / ELMWOOD
+    stop: 528  US HWY 5 / NORTHAMPTON
+    stop: 529  KMart Parking Lot
+    stop: 541  WHITING FARMS / GORDON
+    stop: 544  WHITING FARMS / GORDON
+    stop: 546  KMART PLAZA DRIVE SOUTH / NORTHAMPTON
+    stop: 551  WHITING FARMS / AUTUMN
+    stop: 556  WHITING FARMS / FARNUM
+    stop: 557  WHITING FARMS / JEANNE
+    stop: 564  TOKENEKE / HOLY FAMILY
+    stop: 565  TOKENEKE / WHITING FARMS
+    stop: 566  HOLY FAMILY / UNNAMED STREET
+    stop: 580  HOLY FAMILY / DEVONSHIRE
+    stop: 581  HOLY FAMILY / DEVONSHIRE
+    stop: 583  LOWER WESTFIELD / WHITING FARMS
+    stop: 609  Holyoke Mall JC Penny Entrance
+    stop: 626  PROVIDENCE HOSPITAL / PARKING LOT
+    stop: 637  WHITNEY / UNNAMED STREET
+    stop: 638  WHITNEY / UNNAMED STREET
+    stop: 640  Riverdale and Brightside Dr.
+    stop: 653  HIGHLAND / PROSPECT
+    stop: 654  HIGHLAND / PROSPECT
+    stop: 656  RIVERDALE / MARION
+    stop: 660  RIVERDALE / UNKNOWN
+    stop: 705  RIVERDALE / ALTHEA
+    stop: 707  RIVERDALE / ALTHEA
+    stop: 711  RIVERDALE / LABELLE
+    stop: 729  RIVERDALE / HAYES
+    stop: 732  RIVERDALE / HAYES
+    stop: 751  RIVERDALE / US HWY 5
+    stop: 759  RIVERDALE / US HWY 5
+    stop: 770  RIVERDALE / WAYSIDE
+    stop: 771  RIVERDALE / US HWY 5
+    stop: 819  RIVERDALE / ASHLEY
+    stop: 827  RIVERDALE / ASHLEY
+    stop: 881  RIVERDALE / PVT
+    stop: 891  RIVERDALE / US HWY 5
+    stop: 926  Riverdale shops 2
+    stop: 930  Riverdale Shops 1
+    stop: 949  RIVERDALE / PARKING LOT
+    stop: 953  RIVERDALE / PIERCE
+    stop: 992  ELM / RAMP
+    stop: 998  ELM / DINGLE
+    stop: 1018  ELM / LOWER GRANDVIEW
+    stop: 1032  ELM / DINGLE
+    stop: 1049  ELM / LOWER GRANDVIEW
+    stop: 1067  ELM / LOWER GRANDVIEW
+    stop: 1080  ELM / LARONE
+    stop: 1089  ELM / LARONE
+    stop: 1119  ELM / SHEAFFER
+    stop: 1130  ELM / ELDRIDGE
+    stop: 1205  ELM / KINGS
+    stop: 1209  ELM / WITCH
+    stop: 1277  ELM / ROCHELLE
+    stop: 1285  ELM / ROCHELLE
+    stop: 1316  Plainfield St. across from John
+    stop: 1317  WEST / RIVERSIDE
+    stop: 1319  PLAINFIELD / JOHN
+    stop: 1322  WEST / US HWY 20
+    stop: 1329  ELM / FIELD
+    stop: 1334  Main/Carew
+    stop: 1335  Main / St. George (1)
+    stop: 1336  ELM / ELMWOOD
+    stop: 1355  ELM / ELM
+    stop: 1371  ELM / US HWY 20
+    stop: 1380  ELM / WESTFIELD
+    stop: 1390  PARK / LATHROP
+    stop: 1396  US HWY 20 / PARK AVENUE
+    stop: 1409  PARK / US HWY 20
+    stop: 1428  US HWY 20 / PARK
+    stop: 1450  Springfield Bus Terminal
+    stop: 1905  Main/St. George (2)
+    stop: 1906  Main/Boylston
+    stop: 1907  Main/Patton
+    stop: 1908  MAIN / EMERY
+    stop: 1909  Springfield Post Office
+    stop: 1910  MAIN / CONGRESS
+    stop: 5800  Mont Marie
+    stop: 6457  NORTHAMPTON / ELMWOOD
+    stop: 6458  RIVERDALE / LABELLE
+    stop: 9097  HTC Gate 2
+    stop: 11008  Dean Tech
+    stop: 11121  Lower Westfield/Whiting Farms(Holyoke Tripper)
+Route: P21
+    stop: 387  HIGH / DWIGHT
+    stop: 394  DWIGHT / FRONT
+    stop: 398  HIGH / SUFFOLK
+    stop: 412  HIGH / APPLETON
+    stop: 417  MAIN / DWIGHT
+    stop: 419  HIGH / ESSEX
+    stop: 430  HIGH / CABOT
+    stop: 438  MAIN / APPLETON
+    stop: 444  CABOT / BOND
+    stop: 452  HIGH / HAMPSHIRE
+    stop: 455  HIGH / SARGEANT
+    stop: 460  MAIN / CABOT
+    stop: 463  CABOT / CLEMENTE
+    stop: 465  CABOT / CLEMENTE
+    stop: 473  HIGH / FRANKLIN
+    stop: 477  CABOT / BRIDGE
+    stop: 478  CABOT / BRIDGE
+    stop: 479  HIGH / JACKSON
+    stop: 483  CABOT / CANAL
+    stop: 484  CABOT / CANAL
+    stop: 547  Grattan St and Meadow St
+    stop: 548  CHICOPEE / ELIZABETH
+    stop: 549  GRATTAN / PHILATHEA
+    stop: 550  GRATTAN / PHILATHEA
+    stop: 552  CHICOPEE / WARREGAN
+    stop: 553  CHICOPEE / WARREGAN
+    stop: 558  CHICOPEE / DUCHARME
+    stop: 559  MEADOW / CHARPENTIER
+    stop: 560  CHICOPEE / NARRAGANSETT
+    stop: 563  MEADOW / THOMAS
+    stop: 568  MEADOW / DUCHARME
+    stop: 569  CHICOPEE / LAWNDALE
+    stop: 572  CHICOPEE / BONNER
+    stop: 575  MEADOW / DORRANCE
+    stop: 576  MEADOW / LAWNDALE
+    stop: 578  CHICOPEE / CORA
+    stop: 582  CHICOPEE / DALEY
+    stop: 593  CHICOPEE / DILLON
+    stop: 596  MEADOW / MCKINSTRY
+    stop: 598  CHICOPEE / JONES FERRY
+    stop: 603  CHICOPEE / JONES FERRY
+    stop: 605  MEADOW / CHICOMANSETT
+    stop: 610  CHICOPEE / ELMER
+    stop: 611  CHICOPEE / MARSHALL
+    stop: 613  MEETING HOUSE / MEADOW
+    stop: 614  MEETING HOUSE / MEADOW
+    stop: 615  MEETING HOUSE / ELCON
+    stop: 617  MEETING HOUSE / ELCON
+    stop: 618  MEETING HOUSE / GROCKI
+    stop: 619  MEETING HOUSE / GROCKI
+    stop: 620  MEETING HOUSE / ELMER
+    stop: 621  MEETING HOUSE / ELMER
+    stop: 631  CHICOPEE / OLDFIELD
+    stop: 634  CHICOPEE / OLDFIELD
+    stop: 639  CHICOPEE / LORRAINE
+    stop: 641  CHICOPEE / POPLAR
+    stop: 642  CHICOPEE / POPLAR
+    stop: 646  CHICOPEE / RAMP
+    stop: 647  CHICOPEE / RAMP
+    stop: 676  STATE HWY 116 / SITARZ
+    stop: 682  OLD CHICOPEE / STATE HWY 116
+    stop: 731  Chicopee Center
+    stop: 737  Center St. and Exchange
+    stop: 746  CENTER / SCHOOL
+    stop: 747  SPRINGFIELD / PEARL
+    stop: 752  SPRINGFIELD / HOWARD
+    stop: 756  CABOT / PARK
+    stop: 761  Center/Union
+    stop: 766  SPRINGFIELD / SOUTH
+    stop: 768  SPRINGFIELD / CHAPIN
+    stop: 773  CENTER / SOUTH
+    stop: 779  SPRINGFIELD / GAYLORD
+    stop: 781  Center/Hampden
+    stop: 789  SPRINGFIELD / STEARNS
+    stop: 799  SPRINGFIELD / CASINO
+    stop: 805  SPRINGFIELD / HENRY HARRIS
+    stop: 814  SPRINGFIELD / LEMUEL
+    stop: 818  SPRINGFIELD / MARION
+    stop: 844  SPRINGFIELD / FRANKLIN
+    stop: 845  SPRINGFIELD / FRANKLIN
+    stop: 846  Center/Rt 91
+    stop: 870  SPRINGFIELD / ATWATER
+    stop: 873  SPRINGFIELD / MELLEN
+    stop: 888  SPRINGFIELD / DAVENPORT
+    stop: 893  SPRINGFIELD / DAVENPORT
+    stop: 898  Center St. (opposite 628)
+    stop: 916  SPRINGFIELD / ATWATER
+    stop: 918  SPRINGFIELD / ATWATER
+    stop: 927  Center/Plainfield(opposite)
+    stop: 955  SPRINGFIELD / SHEFFORD
+    stop: 957  SPRINGFIELD / SHEFFORD
+    stop: 965  Main/Main
+    stop: 967  3550 Main St
+    stop: 970  SPRINGFIELD / CASELAND
+    stop: 973  SPRINGFIELD / CUNNINGHAM
+    stop: 978  3550 Main Street
+    stop: 979  Baystate Parking Lot N
+    stop: 994  3350 Main St
+    stop: 1000  PLAINFIELD / WASON
+    stop: 1002  SPRINGFIELD / DERBY DINGLE
+    stop: 1006  SPRINGFIELD / DERBY DINGLE
+    stop: 1007  3300 Main Street
+    stop: 1011  SPRINGFIELD / ATWATER
+    stop: 1014  Main/Noble
+    stop: 1021  SPRINGFIELD / ATWATER
+    stop: 1024  PLAINFIELD / LAUREL
+    stop: 1051  CHESTNUT / BAY STATE MEDICAL CENTER DRIV
+    stop: 1053  BAY STATE MEDICAL CENTER DRIVE / CHESTNU
+    stop: 1059  BAY STATE MEDICAL CENTER DRIVE / CHESTNU
+    stop: 1068  Main/Cumberland(opposite)
+    stop: 1077  CHESTNUT / WAVERLY
+    stop: 1081  CHESTNUT / PRATT
+    stop: 1093  Main/Portland
+    stop: 1104  CHESTNUT / CHAPIN
+    stop: 1109  CHESTNUT / CALHOUN
+    stop: 1115  Main/Medford
+    stop: 1127  Main / Hooker St.
+    stop: 1128  Main / E. Hooker St.
+    stop: 1144  CHESTNUT / BANCROFT
+    stop: 1157  MAIN / HUNTINGTON
+    stop: 1185  CHESTNUT / HEBRON
+    stop: 1187  MAIN / SHELDON
+    stop: 1200  MAIN / JEFFERSON
+    stop: 1208  DWIGHT / OSGOOD
+    stop: 1217  LINDEN TOWERS DRIVE / STAFFORD
+    stop: 1232  CHESTNUT / SHERRINGTON
+    stop: 1233  MAIN / BANCROFT
+    stop: 1235  DWIGHT / HEBRON
+    stop: 1267  MAIN / OSGOOD
+    stop: 1274  Carew/Dwight (3)
+    stop: 1280  DWIGHT / GROSVENOR
+    stop: 1286  MAIN / MORGAN
+    stop: 1287  CHESTNUT / STAFFORD
+    stop: 1290  Carew/Dwight (2)
+    stop: 1296  Main/Church
+    stop: 1298  MAIN / MORGAN
+    stop: 1334  Main/Carew
+    stop: 1335  Main / St. George (1)
+    stop: 1450  Springfield Bus Terminal
+    stop: 1905  Main/St. George (2)
+    stop: 1906  Main/Boylston
+    stop: 1907  Main/Patton
+    stop: 1908  MAIN / EMERY
+    stop: 1909  Springfield Post Office
+    stop: 1910  MAIN / CONGRESS
+    stop: 1911  LIBERTY / DWIGHT
+    stop: 1912  LIBERTY / DWIGHT
+    stop: 1913  LIBERTY / DWIGHT
+    stop: 1915  CHESTNUT / LIBERTY
+    stop: 1916  CHESTNUT / CONGRESS
+    stop: 1920  DWIGHT / CONGRESS
+    stop: 6324  MAIN / HOLLAND
+    stop: 6440  CHESTNUT / WAVERLY
+    stop: 6441  CHICOPEE / LORRAINE
+    stop: 6450  CHICOPEE / JONES FERRY
+    stop: 9086  HTC Gate 7
+    stop: 9088  HTC Gate 5
+    stop: 9089  HTC Gate 4
+    stop: 9096  HTC Gate 3
+    stop: 9097  HTC Gate 2
+    stop: 9145  Walter and Main(Inbound)
+    stop: 9319  Dwight and Carew(Tripper Timepoint)
+Route: PV
+    stop: 294  Belchertown Center 2
+    stop: 346  Walmart  Ware
+    stop: 375  Bondsville
+    stop: 543  Palmer High School
+    stop: 571  Chudy Corners
+    stop: 599  THORNDIKE / SHEARER
+    stop: 624  Wing Memorial Hospital
+    stop: 690  Palmer Library
+    stop: 700  Palmer Senior Center
+    stop: 806  Eastfield Mall 3
+    stop: 9077  Thorndike Post Office
+Route: R10
+    stop: 897  Westfield State University
+    stop: 913  South Lot  WSU
+    stop: 914  UNION / MORGAN
+    stop: 919  UNION / UNNAMED STREET
+    stop: 929  WESTERN / WESTWOOD
+    stop: 933  UNION / PUMPKIN
+    stop: 937  333 Western Ave
+    stop: 939  UNION / SPRINGDALE
+    stop: 943  Western / Overlook
+    stop: 983  WESTERN / BIRCH
+    stop: 993  WESTERN / HIGHLAND
+    stop: 1019  Westfield Center
+    stop: 1025  Westfield Center
+    stop: 1026  MAIN / MECHANIC
+    stop: 1027  COURT / WASHINGTON
+    stop: 1033  COURT / BATES
+    stop: 1034  RAMP / COURT
+    stop: 1041  MAIN / US HWY 20
+    stop: 1044  COURT / CHESTNUT
+    stop: 1046  COURT / MILL
+    stop: 1056  MAIN / MEADOW
+    stop: 1069  MAIN / NOBLE
+    stop: 1153  MAIN / DELMONT
+    stop: 1154  MAIN / US HWY 20
+    stop: 1199  MAIN / WESTFIELD STREET SHOPS DRIVE
+    stop: 1215  MAIN / DRIVEWAY
+    stop: 1239  Westfield Shops
+    stop: 1254  SPRINGFIELD / MAIN
+    stop: 1258  SPRINGFIELD / US HWY 20
+    stop: 1291  Western New England Hospital
+    stop: 1345  SPRINGFIELD / MOUNTAIN
+    stop: 1352  Westfield Walmart
+    stop: 1353  WESTFIELD / US HWY 20
+    stop: 1356  WESTFIELD / TALCOTT
+    stop: 1362  WESTFIELD / WESTFIELD
+    stop: 1367  WESTFIELD / NELSON
+    stop: 1374  WESTFIELD / NELSON
+    stop: 1376  WESTFIELD / WOODMONT
+    stop: 1378  WESTFIELD / CEDAR
+    stop: 1379  WESTFIELD / ROYCE
+    stop: 1380  ELM / WESTFIELD
+    stop: 1382  WESTFIELD / WOODMONT
+    stop: 1383  WESTFIELD / CEDAR
+    stop: 1385  WESTFIELD / SPRINGFIELD
+    stop: 1388  WESTFIELD / LOCUST
+    stop: 1389  WESTFIELD / VAN DEENE
+    stop: 1390  PARK / LATHROP
+    stop: 1391  MAIN / US HWY 20
+    stop: 1392  WESTFIELD / VAN DEENE
+    stop: 1396  US HWY 20 / PARK AVENUE
+    stop: 1399  MAIN / BLISS
+    stop: 1403  WESTFIELD / MAPLE
+    stop: 1404  WESTFIELD / VAN DEENE
+    stop: 1406  WESTFIELD / MAPLE
+    stop: 1407  WESTFIELD / ALTAMONT
+    stop: 1408  WESTFIELD / ELY
+    stop: 1409  PARK / US HWY 20
+    stop: 1411  WESTFIELD / VAN DEENE
+    stop: 1412  WESTFIELD / THOMPSON
+    stop: 1414  WESTFIELD / BROOKLINE
+    stop: 1427  WESTFIELD / SILVER
+    stop: 1428  US HWY 20 / PARK
+    stop: 1431  WESTFIELD / LAUREL
+    stop: 1432  WESTFIELD / MERCURY
+    stop: 1433  WESTFIELD / MEADOWBROOK
+    stop: 1436  WESTFIELD / HILLCREST
+    stop: 1437  MAIN / FAIRVIEW
+    stop: 1438  WESTFIELD / SILVER
+    stop: 1439  WESTFIELD / HATHORNE
+    stop: 1441  WESTFIELD / OHIO
+    stop: 1442  WESTFIELD / MERCURY
+    stop: 1443  MAIN / FAIRVIEW
+    stop: 1444  WESTFIELD / HATHORNE
+    stop: 1447  WESTFIELD / OHIO
+    stop: 1448  WESTFIELD / POPLAR
+    stop: 1453  WESTFIELD / RAMP
+    stop: 1456  WESTFIELD / PLEASANT
+    stop: 1457  DWIGHT / HARRISON
+    stop: 1458  WESTFIELD / SUMMIT
+    stop: 1463  MAIN / CHURCH
+    stop: 1464  MAIN / CHURCH
+    stop: 1465  WESTFIELD / SUMMIT
+    stop: 1467  Main/Worthington
+    stop: 1474  MAIN / BRIDGE
+    stop: 1475  Main and Harrison
+    stop: 1476  MAIN / JAMES
+    stop: 1477  MAIN / COTTAGE
+    stop: 1484  MOSLEY / MAIN
+    stop: 1488  MAIN / GEORGE
+    stop: 1500  MAIN / ALLEN
+    stop: 1501  MAIN / ALLEN
+    stop: 1515  CHAPIN / MAIN
+    stop: 1524  MAIN / BRIDGE
+    stop: 1528  MAIN / BRIDGE
+    stop: 1534  MAIN / NEW BRIDGE
+    stop: 1544  MEMORIAL / MAIN
+    stop: 1548  MEMORIAL / MAIN
+    stop: 1912  LIBERTY / DWIGHT
+    stop: 1921  DWIGHT / WORTHINGTON
+    stop: 6281  SPRINGFIELD / MOUNTAIN
+    stop: 6411  DWIGHT / TAYLOR
+    stop: 6413  COURT / UNNAMED STREET
+    stop: 6414  MAIN / CASIMIR
+    stop: 9002  Liberty and Main #2
+    stop: 9019  138 East Mountain Rd
+    stop: 9022  Boland Way
+    stop: 9190  Scanlon Hall
+Route: R14
+    stop: 1450  Springfield Bus Terminal
+    stop: 1457  DWIGHT / HARRISON
+    stop: 1467  Main/Worthington
+    stop: 1474  MAIN / BRIDGE
+    stop: 1475  Main and Harrison
+    stop: 1509  RIVER / SPRING
+    stop: 1513  River/King
+    stop: 1518  RIVER / KING
+    stop: 1522  WALNUT / HIGH
+    stop: 1539  BRIDGE / HIGH
+    stop: 1540  WALNUT / OTTAWA
+    stop: 1543  WALNUT / OTTAWA
+    stop: 1544  MEMORIAL / MAIN
+    stop: 1548  MEMORIAL / MAIN
+    stop: 1552  MEMORIAL / NEW BRIDGE
+    stop: 1557  WALNUT / MAPLE
+    stop: 1559  BRIDGE / MAPLE
+    stop: 1571  Century Plaza
+    stop: 1573  MAPLE / HIGHLAND
+    stop: 1575  Century Plaza Big Y
+    stop: 1576  MEMORIAL / LOWELL
+    stop: 1578  MEMORIAL / LOWELL
+    stop: 1579  MAPLE / MOORE
+    stop: 1580  Walnut/Dwight
+    stop: 1586  MEMORIAL / BOSWORTH
+    stop: 1587  MEMORIAL / BOSWORTH
+    stop: 1592  MAPLE / TOWER
+    stop: 1595  MEMORIAL / EAST
+    stop: 1599  MEMORIAL / EAST
+    stop: 1601  WALNUT / WINTHROP
+    stop: 1606  EXPOSITION / MEMORIAL
+    stop: 1618  MEMORIAL / EXPOSITION
+    stop: 1620  MEMORIAL / HEYWOOD
+    stop: 1631  MAPLE / ORCHARD
+    stop: 1643  MEMORIAL / AVENUE OF THE STATES
+    stop: 1648  MEMORIAL / CIRCUIT
+    stop: 1657  Eastern States Exposition
+    stop: 1666  MAPLE / OAK HILL
+    stop: 1669  Walnut/Springfield
+    stop: 1677  WALNUT / SPRINGFIELD
+    stop: 1679  MAPLE / BEGLEY
+    stop: 1680  MAPLE / BEGLEY
+    stop: 1693  MAIN / MAIN
+    stop: 1713  SPRINGFIELD / ROWLEY
+    stop: 1724  MAIN / FEDERAL
+    stop: 1732  MAIN / FEDERAL
+    stop: 1739  SPRINGFIELD / ROYAL
+    stop: 1742  MAIN / FEDERAL
+    stop: 1743  SPRINGFIELD / KRISTEN
+    stop: 1759  SPRINGFIELD / WILSON
+    stop: 1767  SPRINGFIELD / SHERI
+    stop: 1782  SPRINGFIELD / CLEVELAND
+    stop: 1783  SPRINGFIELD / CHAPIN
+    stop: 1784  MAIN / COOPER
+    stop: 1787  SPRINGFIELD / SHIBLEY
+    stop: 1790  SPRINGFIELD / SHIBLEY
+    stop: 1792  SPRINGFIELD / LINE
+    stop: 1796  SPRINGFIELD / LETENDRE
+    stop: 1801  SPRINGFIELD / MOORELAND
+    stop: 1804  SPRINGFIELD / HALL
+    stop: 1806  Hertiage Nursing Home
+    stop: 1809  SPRINGFIELD / UNNAMED STREET
+    stop: 1815  SPRINGFIELD / FRANKLIN
+    stop: 1818  SPRINGFIELD / ANNABLE
+    stop: 1820  SPRINGFIELD / AMHERST
+    stop: 1821  SPRINGFIELD / HASTINGS
+    stop: 1824  SPRINGFIELD / BESSBROOK
+    stop: 1829  SPRINGFIELD / AGNOLI
+    stop: 1831  MAIN / EDWARD
+    stop: 1833  MAIN / ALBERT
+    stop: 1837  Country View Eastates
+    stop: 1842  SPRINGFIELD / BELVIDERE
+    stop: 1844  SPRINGFIELD / NORTHWOOD
+    stop: 1846  MAIN / MONROE
+    stop: 1847  MAIN / MONROE
+    stop: 1849  SPRINGFIELD / UNNAMED STREET
+    stop: 1850  SPRINGFIELD / UNNAMED STREET
+    stop: 1852  SPRINGFIELD / SOUTHWICK
+    stop: 1853  SPRINGFIELD / SOUTHWICK
+    stop: 1863  Pheasant Hill Appartments
+    stop: 1873  AGAWAM IND. PARK DRIVE EXT. / UNNAMED ST
+    stop: 1879  ALMGREN / GEN CREIGHTON W ABRAMS
+    stop: 1888  SUFFIELD / ADAMS
+    stop: 1912  LIBERTY / DWIGHT
+    stop: 1921  DWIGHT / WORTHINGTON
+    stop: 6411  DWIGHT / TAYLOR
+    stop: 6421  MEMORIAL / UNION
+    stop: 6422  WALNUT / COOLEY
+    stop: 9002  Liberty and Main #2
+    stop: 9022  Boland Way
+    stop: 9069  Feeding Hill Center (FLAG STOP-Signal Driver)
+    stop: 9073  Robinson State Park (FLAG STOP-Signal Driver)
+    stop: 11130  Country Estates(Agawam)
+Route: R22
+    stop: 387  HIGH / DWIGHT
+    stop: 388  LYMAN / SUMMER
+    stop: 391  LYMAN / CENTER
+    stop: 393  MAPLE / SUFFOLK
+    stop: 398  HIGH / SUFFOLK
+    stop: 406  MOSHER / WEST
+    stop: 408  MAPLE / APPLETON
+    stop: 412  HIGH / APPLETON
+    stop: 413  MOSHER / BRIDGE
+    stop: 414  MAPLE / ESSEX
+    stop: 417  MAIN / DWIGHT
+    stop: 419  HIGH / ESSEX
+    stop: 429  MAPLE / CABOT
+    stop: 430  HIGH / CABOT
+    stop: 431  CABOT / HIGH
+    stop: 438  MAIN / APPLETON
+    stop: 439  MAPLE / HAMPSHIRE
+    stop: 444  CABOT / BOND
+    stop: 445  MAIN / APPLETON
+    stop: 446  CABOT / BOND
+    stop: 453  MAPLE / SARGEANT
+    stop: 459  MAPLE / SARGEANT
+    stop: 460  MAIN / CABOT
+    stop: 462  CABOT / MAIN
+    stop: 466  Maple and Jackson
+    stop: 475  MAIN / HAMILTON
+    stop: 481  MAIN / SARGEANT
+    stop: 485  South and Maple
+    stop: 493  MAIN / JACKSON
+    stop: 508  MAIN / BERKSHIRE
+    stop: 510  CHICOPEE / BAPTIST
+    stop: 514  MAIN / RACE
+    stop: 516  MAIN / RACE
+    stop: 518  CHICOPEE / CHARBONNEAU
+    stop: 521  MAIN / VERNON
+    stop: 524  CHICOPEE / BLANCHE
+    stop: 527  MAIN / PREW
+    stop: 530  CHICOPEE / STATE HWY 116
+    stop: 538  MEADOW / CHICOPEE
+    stop: 545  MEADOW / ALDEN
+    stop: 549  GRATTAN / PHILATHEA
+    stop: 550  GRATTAN / PHILATHEA
+    stop: 567  MAIN / DEAN TECH DRIVE
+    stop: 570  Stop and Shop
+    stop: 574  GRATTAN / DALLAIRE
+    stop: 577  GRATTAN / MARY
+    stop: 579  GRANBY / STANLEY
+    stop: 585  Big Y Memorial Dr. Chicopee
+    stop: 586  GRATTAN / PROVIDENCE
+    stop: 587  GRATTAN / PROVIDENCE
+    stop: 588  Chicopee Marketplace
+    stop: 591  GRATTAN / MCKINSTRY
+    stop: 595  MONTGOMERY / UNKNOWN
+    stop: 597  MONTGOMERY / UNKNOWN
+    stop: 601  GRATTAN / PERCY
+    stop: 606  GRATTAN / TRILBY
+    stop: 607  GRATTAN / TRILBY
+    stop: 608  GRATTAN / HOBSON
+    stop: 612  STATE HWY 141 / GRATTAN
+    stop: 630  MONTGOMERY / WILLETTE
+    stop: 632  GRATTAN / COLUMBA
+    stop: 635  GRATTAN / NAOMI
+    stop: 636  GRATTAN / NAOMI
+    stop: 644  GRATTAN / MORRIS
+    stop: 650  GRATTAN / MONTGOMERY
+    stop: 651  GRATTAN / MONTGOMERY
+    stop: 6444  CHICOPEE / BAPTIST
+    stop: 6445  CHICOPEE / BOLDUC
+    stop: 6446  CHICOPEE / ADAMS
+    stop: 6447  CHICOPEE / PERRAULT
+    stop: 9087  HTC Gate 6
+    stop: 9201  Chicopee Marketplace
+    stop: 11008  Dean Tech
+    stop: 11124  Main and Sargent(Holyoke Tripper)
+Route: R24
+    stop: 352  University Park Apt
+    stop: 354  LINCOLN / TAYLOR
+    stop: 356  PLEASANT / LINCOLN
+    stop: 359  STOP AND SHOP DR / HAMPDEN
+    stop: 360  HAMPDEN / PLEASANT
+    stop: 361  HAMPDEN / NONOTUCK
+    stop: 362  HAMPDEN / ARLINGTON
+    stop: 363  PLEASANT / HAMPDEN
+    stop: 364  NORTHAMPTON / HAMPDEN
+    stop: 367  DWIGHT / NONOTUCK
+    stop: 368  DWIGHT / SAINT JEROME
+    stop: 369  DWIGHT / LYNWOOD
+    stop: 370  LYMAN / ELM
+    stop: 371  WALNUT / HAMPDEN
+    stop: 372  CHESTNUT / LYMAN
+    stop: 373  APPLETON / POPLAR
+    stop: 374  MAPLE / SAINT KOLBE
+    stop: 376  PLEASANT / FORESTDALE
+    stop: 377  LYMAN / MAPLE
+    stop: 380  ESSEX / SYCAMORE
+    stop: 381  APPLETON / OAK
+    stop: 384  LOCUST / ESSEX
+    stop: 386  Sullivan School
+    stop: 387  HIGH / DWIGHT
+    stop: 388  LYMAN / SUMMER
+    stop: 389  LINDEN / CABOT
+    stop: 390  APPLETON / WALNUT
+    stop: 391  LYMAN / CENTER
+    stop: 392  ESSEX / BEECH
+    stop: 393  MAPLE / SUFFOLK
+    stop: 395  SARGEANT / SAINT JEROME
+    stop: 396  SARGEANT / MAGNOLIA
+    stop: 397  SARGEANT / SAINT JEROME
+    stop: 398  HIGH / SUFFOLK
+    stop: 399  SARGEANT / MAGNOLIA
+    stop: 400  SARGEANT / CHAPMAN
+    stop: 402  SARGEANT / CHAPMAN
+    stop: 403  SARGEANT / NORTHAMPTON
+    stop: 404  APPLETON / MAPLE
+    stop: 405  ESSEX / ELM
+    stop: 406  MOSHER / WEST
+    stop: 408  MAPLE / APPLETON
+    stop: 409  SARGEANT / LOCUST
+    stop: 410  NORTHAMPTON / COLUMBUS
+    stop: 411  SARGEANT / LOCUST
+    stop: 412  HIGH / APPLETON
+    stop: 413  MOSHER / BRIDGE
+    stop: 414  MAPLE / ESSEX
+    stop: 415  HAMPSHIRE / BEECH
+    stop: 416  BEECH / HAMPSHIRE
+    stop: 417  MAIN / DWIGHT
+    stop: 419  HIGH / ESSEX
+    stop: 420  SARGEANT / OAK
+    stop: 421  SARGEANT / OAK
+    stop: 422  HAMPSHIRE / PINE
+    stop: 423  BEECH / SARGEANT
+    stop: 424  HAMPSHIRE / WALNUT
+    stop: 425  CHERRY / DALE
+    stop: 426  NORTHAMPTON / PINEHURST
+    stop: 427  CHERRY / MAPLE CREST
+    stop: 428  SARGEANT / BEECH
+    stop: 429  MAPLE / CABOT
+    stop: 430  HIGH / CABOT
+    stop: 433  HAMPSHIRE / CHESTNUT
+    stop: 434  HAMPSHIRE / CHESTNUT
+    stop: 435  SARGEANT / WALNUT
+    stop: 436  BEECH / FRANKLIN
+    stop: 437  SARGEANT / WALNUT
+    stop: 438  MAIN / APPLETON
+    stop: 439  MAPLE / HAMPSHIRE
+    stop: 440  BEECH / FRANKLIN
+    stop: 441  NORTHAMPTON / FORER
+    stop: 442  NORTHAMPTON / FORER
+    stop: 443  Cherry and Leary
+    stop: 445  MAIN / APPLETON
+    stop: 447  HAMPSHIRE / HIGH
+    stop: 448  Beech and Linden
+    stop: 449  SARGEANT / CHESTNUT
+    stop: 450  SARGEANT / CHESTNUT
+    stop: 451  Cherry and Homestead
+    stop: 452  HIGH / HAMPSHIRE
+    stop: 453  MAPLE / SARGEANT
+    stop: 455  HIGH / SARGEANT
+    stop: 456  HOSPITAL / PARKING LOT
+    stop: 458  HOSPITAL / PARKING LOT
+    stop: 459  MAPLE / SARGEANT
+    stop: 460  MAIN / CABOT
+    stop: 461  BEECH / BEECH
+    stop: 464  BEECH / HOSPITAL
+    stop: 466  Maple and Jackson
+    stop: 467  BEECH / HOSPITAL
+    stop: 468  BEECH / NORTHAMPTON
+    stop: 470  SOLDIERS HOME / FAIRMONT
+    stop: 471  CHERRY / BAY STATE
+    stop: 472  CHERRY / HILLSIDE
+    stop: 474  CHERRY / BAY STATE
+    stop: 475  MAIN / HAMILTON
+    stop: 476  HILLSIDE / MERKEL
+    stop: 481  MAIN / SARGEANT
+    stop: 485  South and Maple
+    stop: 489  HILLSIDE / WESTFIELD
+    stop: 492  HILLSIDE / WESTFIELD
+    stop: 493  MAIN / JACKSON
+    stop: 498  WESTFIELD / HITCHCOCK
+    stop: 499  HOMESTEAD / LORRAINE
+    stop: 500  NORTHAMPTON / MYRTLE
+    stop: 502  WESTFIELD / WOODLAND
+    stop: 503  WESTFIELD / WOODLAND
+    stop: 504  US HWY 5 / NORTHAMPTON
+    stop: 505  HOMESTEAD / SHEEHAN
+    stop: 508  MAIN / BERKSHIRE
+    stop: 511  WESTFIELD / BRAY PARK
+    stop: 512  WESTFIELD / BRAY PARK
+    stop: 513  NORTHAMPTON / ELMWOOD
+    stop: 514  MAIN / RACE
+    stop: 516  MAIN / RACE
+    stop: 517  WESTFIELD / CONNECTICUT
+    stop: 519  WESTFIELD / CONNECTICUT
+    stop: 520  HOMESTEAD / MEMORIAL
+    stop: 521  MAIN / VERNON
+    stop: 522  WESTFIELD / MEMORIAL
+    stop: 525  WESTFIELD / MCGRADY
+    stop: 526  WESTFIELD / JOHNS
+    stop: 527  MAIN / PREW
+    stop: 533  HOMESTEAD / RAMP
+    stop: 535  HOMESTEAD / PYNCHON
+    stop: 541  WHITING FARMS / GORDON
+    stop: 542  HOMESTEAD / KANE
+    stop: 544  WHITING FARMS / GORDON
+    stop: 551  WHITING FARMS / AUTUMN
+    stop: 554  HOMESTEAD / CHARLES HILL
+    stop: 555  HOMESTEAD / UPLAND
+    stop: 556  WHITING FARMS / FARNUM
+    stop: 557  WHITING FARMS / JEANNE
+    stop: 565  TOKENEKE / WHITING FARMS
+    stop: 566  HOLY FAMILY / UNNAMED STREET
+    stop: 567  MAIN / DEAN TECH DRIVE
+    stop: 573  MAIN / SAINT VINCENT
+    stop: 580  HOLY FAMILY / DEVONSHIRE
+    stop: 581  HOLY FAMILY / DEVONSHIRE
+    stop: 583  LOWER WESTFIELD / WHITING FARMS
+    stop: 584  LOWER WESTFIELD / HOMESTEAD
+    stop: 589  HOLYOKE CROSSING DRIVE / HOLYOKE CROSSIN
+    stop: 590  MAIN / PELTIAH
+    stop: 592  HOLYOKE CROSSING DRIVE / HOLYOKE CROSSIN
+    stop: 594  MAIN / JONES FERRY
+    stop: 609  Holyoke Mall JC Penny Entrance
+    stop: 626  PROVIDENCE HOSPITAL / PARKING LOT
+    stop: 637  WHITNEY / UNNAMED STREET
+    stop: 638  WHITNEY / UNNAMED STREET
+    stop: 640  Riverdale and Brightside Dr.
+    stop: 653  HIGHLAND / PROSPECT
+    stop: 654  HIGHLAND / PROSPECT
+    stop: 1904  LOWER WESTFIELD / UNKNOWN
+    stop: 5800  Mont Marie
+    stop: 5941  Main / Jones Ferry (across)
+    stop: 6416  HOMESTEAD / MEMORIAL
+    stop: 6457  NORTHAMPTON / ELMWOOD
+    stop: 6500  APPLETON / PLEASANT
+    stop: 6502  HILLSIDE / MERKEL
+    stop: 6551  MAIN / ADAMS
+    stop: 6552  MAIN / JACKSON
+    stop: 6553  MAIN / PAPINEAU
+    stop: 6554  MAIN / PREW
+    stop: 6555  MAIN / DEAN TECH DRIVE
+    stop: 6801  MAIN / MEADOW
+    stop: 9088  HTC Gate 5
+    stop: 9550  Northampton and River Street(Holyoke Tripper)
+    stop: 9551  Northampton and River Ter(Afternoon)
+    stop: 11003  HOLYOKE HIGH
+    stop: 11008  Dean Tech
+    stop: 11011  Jarvis and Easthampton
+    stop: 11115  Cherry and Homestead
+    stop: 11116  Homestead and Cherry
+    stop: 11117  Main and Sargent(Holyoke Tripper)
+    stop: 11123  High and Sargent (Holyoke Tripper)
+    stop: 11124  Main and Sargent(Holyoke Tripper)
+Route: R25
+    stop: 320  Silver Street (Out)
+    stop: 323  S. Hadley Center
+    stop: 329  Stone Shelter
+    stop: 334  STATE / WEST
+    stop: 342  PHINS HILL / PHINS HILL
+    stop: 344  STATE / HIGH
+    stop: 345  NEWTON / LYMAN
+    stop: 347  JUDD / MAIN
+    stop: 348  LATHROP / APPLEWOOD
+    stop: 350  LAMB / RAMP
+    stop: 351  LAMB / LAMB
+    stop: 353  LAMB / SCHOOL
+    stop: 355  BRIDGE / GRANT
+    stop: 357  BRIDGE / SCHOOL ST
+    stop: 358  BRIDGE / MAIN
+    stop: 377  LYMAN / MAPLE
+    stop: 388  LYMAN / SUMMER
+    stop: 391  LYMAN / CENTER
+    stop: 406  MOSHER / WEST
+    stop: 413  MOSHER / BRIDGE
+    stop: 417  MAIN / DWIGHT
+    stop: 438  MAIN / APPLETON
+    stop: 445  MAIN / APPLETON
+    stop: 460  MAIN / CABOT
+    stop: 475  MAIN / HAMILTON
+    stop: 481  MAIN / SARGEANT
+    stop: 493  MAIN / JACKSON
+    stop: 508  MAIN / BERKSHIRE
+    stop: 514  MAIN / RACE
+    stop: 516  MAIN / RACE
+    stop: 521  MAIN / VERNON
+    stop: 527  MAIN / PREW
+    stop: 567  MAIN / DEAN TECH DRIVE
+    stop: 573  MAIN / SAINT VINCENT
+    stop: 590  MAIN / PELTIAH
+    stop: 594  MAIN / JONES FERRY
+    stop: 609  Holyoke Mall JC Penny Entrance
+    stop: 626  PROVIDENCE HOSPITAL / PARKING LOT
+    stop: 637  WHITNEY / UNNAMED STREET
+    stop: 638  WHITNEY / UNNAMED STREET
+    stop: 640  Riverdale and Brightside Dr.
+    stop: 653  HIGHLAND / PROSPECT
+    stop: 654  HIGHLAND / PROSPECT
+    stop: 5005  Granby / Lorraine (FLAG stop - signal driver)
+    stop: 5006  Granby / Lyman (FLAG stop - signal driver)
+    stop: 5007  Granby / Lyman (FLAG stop - signal driver)
+    stop: 5008  Granby / Sunset (Flag stop - signal driver)
+    stop: 5009  Granby / Mountainview(FLAG stop - signal driver)
+    stop: 5010  W. State St. / Pleasant(Flag stop - signal driver)
+    stop: 5011  State / Kellogg (Flag stop - signal driver)
+    stop: 5012  State / Parish Hill (Flag stop - signal driver)
+    stop: 5013  West / Crescent (Flag stop - signal driver)
+    stop: 5014  West / Amherst (Flag stop - signal driver)
+    stop: 5015  West / Burnett (Flag stop - signal driver)
+    stop: 5016  Silver / Chapel Hill (Flag stop - signal driver)
+    stop: 5017  East / Morgan (Flag stop - signal driver)
+    stop: 5040  College / Morgan (Flag stop - signal driver)
+    stop: 5041  Newton / Burnett (Flag stop - signal driver)
+    stop: 5042  Newton / Brainerd (Flag stop - signal driver)
+    stop: 5043  Newton / McKinley (Flag stop - signal driver)
+    stop: 5044  South Hadley High Sch (Flag stop - signal driver)
+    stop: 5045  N Main / Main (Flag stop - signal driver)
+    stop: 5046  N Main / High (Flag stop - signal driver)
+    stop: 5047  N Main / W Summit (Flag stop - signal driver)
+    stop: 5048  193/188 Mian St (Flag stop - signal driver)
+    stop: 5049  Bardwell / Linden (Flag stop - signal driver)
+    stop: 5050  Bardwell / Crew (Flag stop - signal driver)
+    stop: 5052  Lathrop / Judd (Flag stop - signal driver)
+    stop: 6810  N.E.A.R.I. School (Flag Stop)
+    stop: 9086  HTC Gate 7
+    stop: 9096  HTC Gate 3
+    stop: 9104  Granby Center PM
+    stop: 11111  Silver/ Main (Flag stop - signal driver)
+    stop: 11113  Grandby / East (Flag stop - signal driver)
+    stop: 11114  Granby / East (Flag stop - signal driver)
+Route: R27
+    stop: 721  BOSTON / BRAINARD
+    stop: 723  MAIN / MAPLE
+    stop: 724  MAIN / MAPLE
+    stop: 740  MAIN / NOKOMIS
+    stop: 742  BOSTON / STONY HILL
+    stop: 745  BOSTON / POST OFFICE
+    stop: 755  BOSTON / DUDLEY
+    stop: 760  BOSTON / HATCH
+    stop: 764  BOSTON / BIDDLE
+    stop: 780  STONY HILL / UNNAMED STREET
+    stop: 782  STONY HILL / UNNAMED STREET
+    stop: 801  Eastfield Mall (Flag Stop)
+    stop: 804  STONY HILL / SUNNYSIDE
+    stop: 806  Eastfield Mall 3
+    stop: 809  MAIN / FOX HILL
+    stop: 815  STONY HILL / PRIMROSE
+    stop: 816  STONY HILL / PRIMROSE
+    stop: 821  FERNBANK / FLINT
+    stop: 822  FERNBANK / FLINT
+    stop: 823  BOSTON / FIELDSTON
+    stop: 824  Eastfield Mall (Flag Stop)
+    stop: 829  Boston Rd Mobile Home Park
+    stop: 831  FERNBANK / BULAT
+    stop: 834  STONY HILL / HICKORY HILL
+    stop: 839  FERNBANK / BULAT
+    stop: 862  STONY HILL / FERNWOOD
+    stop: 864  MAIN / DELMORE
+    stop: 866  Springfield Walmart
+    stop: 877  DIPPING HOLE / BLACKSMITH
+    stop: 878  DIPPING HOLE / MELIKIAN
+    stop: 880  DIPPING HOLE / STONY HILL
+    stop: 882  DIPPING HOLE / STONY HILL
+    stop: 971  MAIN / BULKLEY
+    stop: 1004  MAIN / FACULTY
+    stop: 1047  SPRINGFIELD / MAIN
+    stop: 1055  MAIN / SPRINGFIELD
+    stop: 1072  SPRINGFIELD / SPRINGFIELD
+    stop: 1076  SPRINGFIELD / CHAPIN
+    stop: 1086  STONY HILL / SPRINGFIELD
+    stop: 1129  WILBRAHAM / PINEVIEW
+    stop: 1131  WILBRAHAM / GRANGER
+    stop: 1133  WILBRAHAM / CATALPA
+    stop: 1135  Wilbraham and Fenway (Northside)
+    stop: 1142  WILBRAHAM / LUMAE
+    stop: 1160  Springfield / Brooklawn(Flag stop - signal driver)
+    stop: 1162  WILBRAHAM / PARK
+    stop: 1166  SPRINGFIELD / WILBRAVIEW
+    stop: 1174  WILBRAHAM / SPRINGFIELD
+    stop: 1177  Duggan Middle School
+    stop: 1178  WILBRAHAM / KANE
+    stop: 1184  WILBRAHAM / KANE
+    stop: 1188  WILBRAHAM / GLENOAK
+    stop: 1189  WILBRAHAM / GLENOAK
+    stop: 1192  WILBRAHAM / PINE ACRE
+    stop: 1198  WILBRAHAM / PINE ACRE
+    stop: 1204  WILBRAHAM / PEEKSKILL
+    stop: 1206  WILBRAHAM / BARRISON
+    stop: 1216  WILBRAHAM / DELMORE
+    stop: 1219  WILBRAHAM / ABERDALE
+    stop: 1224  WILBRAHAM / MARINE
+    stop: 1226  WILBRAHAM / MARINE
+    stop: 1230  WILBRAHAM / CABINET
+    stop: 1234  WILBRAHAM / MONTICELLO
+    stop: 1237  WILBRAHAM / SENATOR
+    stop: 1240  WILBRAHAM / TRUMAN
+    stop: 1244  WILBRAHAM / MARCHIONESS
+    stop: 1246  WILBRAHAM / UNNAMED STREET
+    stop: 1247  WILBRAHAM / MARCHIONESS
+    stop: 1252  WILBRAHAM / OLD ACRE
+    stop: 1255  WILBRAHAM / ALDEN
+    stop: 1259  WILBRAHAM / NORFOLK
+    stop: 1271  WILBRAHAM / SUFFOLK
+    stop: 1276  WILBRAHAM / BENTON
+    stop: 1284  WILBRAHAM / ROCHELLE
+    stop: 1297  AIC (Wilbraham Rd)
+    stop: 1302  MLK Community Center (Wilbraham Rd)
+    stop: 1311  WILBRAHAM / COLTON
+    stop: 1323  Mason Square (Inbound)
+    stop: 1328  STATE/THOMPSON
+    stop: 1340  STATE / ORLEANS
+    stop: 1343  STATE / OAK
+    stop: 1350  STATE / STATE
+    stop: 1387  Commerce High School
+    stop: 1393  TINKHAM / MAIN
+    stop: 1394  TINKHAM / MAIN
+    stop: 1415  STATE / WALNUT
+    stop: 1425  TINKHAM / MOUNTAINBROOK
+    stop: 1435  TINKHAM / EVANGELINE
+    stop: 1445  State/Spring
+    stop: 1450  Springfield Bus Terminal
+    stop: 1467  Main/Worthington
+    stop: 1474  MAIN / BRIDGE
+    stop: 1475  Main and Harrison
+    stop: 1479  STATE / CHESTNUT
+    stop: 1486  TINKHAM / STONY HILL
+    stop: 1923  This stop is no longer used
+    stop: 5023  2133 or 2110 Boston Rd (Flag stop - signal driver)
+    stop: 5024  Boston Rd / Brainard (Flag stop - signal driver)
+    stop: 5025  2443 or 2440 Boston Rd (Flag stop - signal driver)
+    stop: 5026  Boston Rd / PO Park (Flag stop - signal driver)
+    stop: 5027  Boston Rd / Railroad (Flag stop - signal driver)
+    stop: 5028  Main/ Monson (Flag stop - signal driver)
+    stop: 5029  Main / Church (Flag stop - signal driver)
+    stop: 5030  Tinkham / Rochford  (Flag stop - signal driver)
+    stop: 5031  806 Stoney Hill (Flag stop - signal driver)
+    stop: 5032  Sprinfield/ Ripley (Flag stop - signal driver)
+    stop: 5033  Springfield / Faculty (Flag stop - signal driver)
+    stop: 5034  Springfield / Highland (Flag stop - signal driver)
+    stop: 5035  Springfield / Northwood(Flag stop - signal driver)
+    stop: 5036  Main / Buckley (Flag stop - signal driver)
+    stop: 5037  Main / Pease (Flag stop - signal driver)
+    stop: 5038  Main / Merrill (Flag stop - signal driver)
+    stop: 9014  Main/Federal
+    stop: 9107  Stony Hill and Tinkham Road
+Route: R41
+    stop: 259  Northampton Lodging
+    stop: 261  Academy of Music
+    stop: 262  Pleasant St/ Hockanum Rd OB
+    stop: 268  Conz St/ Dialysis Center
+    stop: 283  Oneil St
+    stop: 284  Oneil St
+    stop: 292  LOVEFIELD / TERRACE
+    stop: 293  PLEASANT / TERRACE
+    stop: 296  PLEASANT / RIDGEWOOD
+    stop: 297  Pleasant / Ridgewood
+    stop: 300  Pleasant/Hill  (Eastworks)
+    stop: 302  Big E / Senior Center
+    stop: 303  Easthampton Town Hall
+    stop: 308  UNION / LIBERTY
+    stop: 313  UNION / WILLISTON
+    stop: 314  UNION / WILLISTON
+    stop: 318  Cottage and Clark Outbound
+Route: R42
+    stop: 55  Williamsburg Center/ Grange Hall
+    stop: 100  Haydenville Center OB
+    stop: 101  Haydenville IB
+    stop: 143  Leeds
+    stop: 150  VA Medical Center
+    stop: 163  MAIN / STATE HWY 9
+    stop: 203  MAIN / MAPLE
+    stop: 204  Florence Center
+    stop: 209  Main/Wilder (52 Main St. Florence)
+    stop: 223  LOCUST / PROSPECT
+    stop: 224  LOCUST / PROSPECT
+    stop: 234  Elm/Connecting Road (Childs Park)
+    stop: 235  Elm/Connecting Road (Northampton High School)
+    stop: 251  Smith College
+    stop: 252  Prospect Street
+    stop: 254  Northampton Court House
+    stop: 260  Masonic St/ Academy of Music OB
+    stop: 261  Academy of Music
+    stop: 267  Walter Salvo House
+    stop: 9011  Brassworks IB
+    stop: 9160  Crafts Ave/ Peter Pan
+    stop: 9161  Look Park OB
+Route: R44
+    stop: 150  VA Medical Center
+    stop: 163  MAIN / STATE HWY 9
+    stop: 170  Hampshire Plaza/ Big Y
+    stop: 177  Meadowbrook Apartments
+    stop: 180  Meadowbrook Apartments
+    stop: 182  Meadowbrook Apartments
+    stop: 188  HATFIELD / BRIDGE
+    stop: 189  BRIDGE / HATFIELD
+    stop: 190  Meadowbrook Apartments
+    stop: 191  Meadowbrook Apartments
+    stop: 192  Forsander Apt.
+    stop: 194  Jackson/Gleason (Hampshire Heights)
+    stop: 199  MEADOWBROOK APARTMENTS / STRAW
+    stop: 200  MEADOWBROOK APARTMENTS / STRAW
+    stop: 201  Maple/Main (High St. Variant)
+    stop: 202  Jackson/Jackson (Jackson St. School)
+    stop: 204  Florence Center
+    stop: 207  CHESTNUT / MAIN
+    stop: 208  Maple/Main (outbound)
+    stop: 209  Main/Wilder (52 Main St. Florence)
+    stop: 210  STRAW / BERKSHIRE
+    stop: 211  STRAW / BERKSHIRE
+    stop: 212  BARRETT / JACKSON
+    stop: 213  BARRETT / JACKSON
+    stop: 214  Barrett/Hathaway Farms (outbound)
+    stop: 215  Barrett/Hathaway Farms (inbound)
+    stop: 216  BARRETT / KING
+    stop: 218  BARRETT / KING
+    stop: 220  MAPLE / PINE
+    stop: 225  PINE / CORTICELLI
+    stop: 226  Starlite Center
+    stop: 227  FLORENCE / RYAN
+    stop: 228  Stop and Shop
+    stop: 233  King/Church (Wendys)
+    stop: 237  Florence Heights
+    stop: 239  King/North (Cumberland Farms)
+    stop: 242  King/Bright (Dunkin Donuts)
+    stop: 246  King/Allen (Hotel Northampton)
+    stop: 249  King/Merrick (Calvin Theatre)
+    stop: 251  Smith College
+    stop: 254  Northampton Court House
+    stop: 256  Thornes Market (R44 Only)
+    stop: 259  Northampton Lodging
+    stop: 260  Masonic St/ Academy of Music OB
+    stop: 261  Academy of Music
+    stop: 263  Fruit St/ Old South St
+    stop: 266  FRUIT / SMITH
+    stop: 267  Walter Salvo House
+    stop: 268  Conz St/ Dialysis Center
+    stop: 5073  Florence / Scanlon  (Flag stop - signal driver)
+    stop: 9007  Corticelli/ Pine OB
+    stop: 9008  Ryan/ Spring OB
+    stop: 9012  54 Industrial Drive
+    stop: 9095  Hampshire County House of Corrections
+    stop: 9160  Crafts Ave/ Peter Pan
+    stop: 9161  Look Park OB
+Route: WS
+    stop: 294  Belchertown Center 2
+    stop: 315  Highland Villiage Apartments
+    stop: 319  Convent Hill Rd
+    stop: 322  Warebrook Village  Ware
+    stop: 325  Friendly's on North St.
+    stop: 326  Wilson's Pahrmacy
+    stop: 331  Ware Town Hall
+    stop: 339  Valley View
+    stop: 340  Brooks Pharmacy  Ware
+    stop: 341  Mary Lane Hosiptal
+    stop: 346  Walmart  Ware
+    stop: 599  THORNDIKE / SHEARER
+    stop: 9063  Ware Post Office
+    stop: 9064  Big Y  Phillips Plaza  Ware
+    stop: 9065  CVS  Ware
+    stop: 9066  Upper North Main St  Ware
