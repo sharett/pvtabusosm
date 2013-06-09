@@ -1,0 +1,28 @@
+TGFS data
+=========
+
+route_id is eg "B43"
+
+
+Getting all the stop IDs for each route
+---------------------------------------
+
+We can get ``route_id``s from routes.txt (or trips.txt if we deduplicate)
+
+We want ``stop_id``s.
+
+1.	read ``route_id``s from routes.txt
+
+2.	``route_id`` to many ``trip_id`` via trips.txt
+
+3.	``trip_id`` to many ``stop_id`` via stop_times.txt
+
+Stops have sequence numbers within a givin trip.
+
+
+Getting other potentially useful data
+-------------------------------------
+
+Stop lan/lon and name from stops.txt by ``stop_id``
+
+Shape for route: get trip ids, and find shape for each trip in trip.txt
