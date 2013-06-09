@@ -15,10 +15,8 @@ async.auto {
 	for route in r.routes
 		console.log "Route: #{route.route_id}"
 		stops = {}
-		if r.trips[route.route_id]?
-			for trip in r.trips[route.route_id]
-				if r.stop_times[trip.trip_id]?
-					for stop_time in r.stop_times[trip.trip_id]
-						stops[stop_time.stop_id] = r.stops[stop_time.stop_id]?.stop_name ? "stop ###{stop_time.stop_id} not found in gtfs/stops.txt"
-			for k, v of stops
-				console.log "    stop: #{k}  #{v}"
+		for trip in r.trips[route.route_id] ? []
+			for stop_time in r.stop_times[trip.trip_id] ? []
+				stops[stop_time.stop_id] = r.stops[stop_time.stop_id]?.stop_name ? "stop ###{stop_time.stop_id} not found in gtfs/stops.txt"
+		for k, v of stops
+			console.log "    stop: #{k}  #{v}"
